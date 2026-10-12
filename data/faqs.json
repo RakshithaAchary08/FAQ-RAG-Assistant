@@ -1,0 +1,1286 @@
+[
+    {
+        "question": "How do I create an account?",
+        "answer": "Open the registration page, enter your name, email address, and password, then submit the form."
+    },
+    {
+        "question": "How do I log in?",
+        "answer": "Enter your registered email address and password on the login page and select Login."
+    },
+    {
+        "question": "How do I reset my password?",
+        "answer": "Select Forgot Password on the login page and follow the instructions sent to your registered email."
+    },
+    {
+        "question": "What should I do if I do not receive the password reset email?",
+        "answer": "Check your spam or junk folder and confirm that you entered your registered email address. If the message still does not arrive, request another reset link using Forgot Password or contact customer support."
+    },
+    {
+        "question": "What should I do if I forgot my password?",
+        "answer": "Use the Forgot Password option to request a password reset link."
+    },
+    {
+        "question": "Can I change my password?",
+        "answer": "Yes. Open Account Settings, choose Change Password, enter your current password, and create a new password."
+    },
+    {
+        "question": "How do I change my email address?",
+        "answer": "Open Profile Settings, update your email address, and complete any verification requested by the system."
+    },
+    {
+        "question": "How do I update my profile?",
+        "answer": "Open your Profile section, select Edit Profile, update your information, and save the changes."
+    },
+    {
+        "question": "How do I change my phone number?",
+        "answer": "Go to Profile Settings, replace your phone number, and save the updated information."
+    },
+    {
+        "question": "How do I upload a profile picture?",
+        "answer": "Open Edit Profile, choose a supported image, upload it, and save your profile."
+    },
+    {
+        "question": "Why is my profile picture not uploading?",
+        "answer": "Check your internet connection and make sure the image format and file size meet the application's requirements."
+    },
+    {
+        "question": "How do I verify my email?",
+        "answer": "Open the verification email and select the verification link provided in the message."
+    },
+    {
+        "question": "I did not receive my verification email. What should I do?",
+        "answer": "Check your spam or junk folder and request a new verification email if necessary."
+    },
+    {
+        "question": "How do I log out?",
+        "answer": "Open your account menu and select Logout."
+    },
+    {
+        "question": "Can I use the same account on another device?",
+        "answer": "Yes. You can sign in on another supported device using your registered credentials."
+    },
+    {
+        "question": "How do I delete my account?",
+        "answer": "Open Account Settings, select Delete Account, and follow the confirmation instructions."
+    },
+    {
+        "question": "Can I recover a deleted account?",
+        "answer": "Account recovery depends on the application's retention policy. Contact support as soon as possible after deletion."
+    },
+    {
+        "question": "How do I check my account details?",
+        "answer": "Open your Profile or Account Settings section to view your saved account information."
+    },
+    {
+        "question": "Can I edit my name?",
+        "answer": "If profile editing is enabled, open Edit Profile, change your name, and save the update."
+    },
+    {
+        "question": "Why is my account locked?",
+        "answer": "An account may be temporarily locked after repeated failed login attempts or security checks. Follow the recovery instructions or contact support."
+    },
+    {
+        "question": "How can I unlock my account?",
+        "answer": "Use the account recovery option or contact customer support if your account remains locked."
+    },
+    {
+        "question": "What should I do if someone accessed my account?",
+        "answer": "Change your password immediately, sign out of other sessions if available, and contact support."
+    },
+    {
+        "question": "Should I share my password with support staff?",
+        "answer": "No. Never share your password or verification codes with anyone."
+    },
+    {
+        "question": "How do I enable two-factor authentication?",
+        "answer": "Open Security Settings and enable two-factor authentication if the feature is available."
+    },
+    {
+        "question": "What is two-factor authentication?",
+        "answer": "Two-factor authentication adds an additional verification step after entering your password."
+    },
+    {
+        "question": "Why am I being asked to verify my identity?",
+        "answer": "Identity verification helps protect accounts and prevent unauthorized access."
+    },
+    {
+        "question": "How do I update my security settings?",
+        "answer": "Open the Security section of your account and review the available security options."
+    },
+    {
+        "question": "Can I change my username?",
+        "answer": "If username editing is supported, open Profile Settings and update the username according to the account rules."
+    },
+    {
+        "question": "Why is my email already registered?",
+        "answer": "The email address may already be linked to an existing account. Try signing in or use password recovery."
+    },
+    {
+        "question": "Can I have more than one account?",
+        "answer": "Account limits depend on the service rules. Check the account policy or contact support for clarification."
+    },
+    {
+        "question": "How do I recover my username?",
+        "answer": "Use the account recovery option or contact support with the information required to verify your identity."
+    },
+    {
+        "question": "Why did my login session expire?",
+        "answer": "Sessions can expire automatically for security reasons. Sign in again to continue."
+    },
+    {
+        "question": "How do I sign out from another device?",
+        "answer": "Open Security or Active Sessions and sign out of unfamiliar or unused devices if that feature is available."
+    },
+    {
+        "question": "What makes a strong password?",
+        "answer": "Use a long password containing a mixture of letters, numbers, and symbols, and avoid easily guessed information."
+    },
+    {
+        "question": "How often should I change my password?",
+        "answer": "Change your password whenever you suspect it has been exposed or when required by the service's security policy."
+    },
+    {
+        "question": "What should I do after receiving a suspicious login alert?",
+        "answer": "Review your account activity, change your password, and contact support if you do not recognize the activity."
+    },
+    {
+        "question": "Can I change my account preferences?",
+        "answer": "Yes. Open Settings and update the preferences available for your account."
+    },
+    {
+        "question": "How do I change notification preferences?",
+        "answer": "Open Notification Settings and enable or disable the notification types you prefer."
+    },
+    {
+        "question": "Why can I not edit my profile?",
+        "answer": "Your account may have restricted fields or a temporary system issue. Try again later or contact support."
+    },
+    {
+        "question": "How do I contact account support?",
+        "answer": "Open the Help and Support section and submit your account-related issue."
+    },
+    {
+        "question": "How can I keep my account secure?",
+        "answer": "Use a strong unique password, enable available security features, and avoid sharing credentials or verification codes."
+    },
+    {
+        "question": "How can I create a study timetable?",
+        "answer": "List your subjects, assign realistic study periods, include breaks, and review difficult topics regularly."
+    },
+    {
+        "question": "How can I prepare for exams?",
+        "answer": "Create a study plan, revise important concepts, practice questions, and take short breaks to maintain concentration."
+    },
+    {
+        "question": "How can I improve my study habits?",
+        "answer": "Study consistently, remove distractions, set small goals, and review what you learned at regular intervals."
+    },
+    {
+        "question": "How can I manage my time as a student?",
+        "answer": "Prioritize important tasks, use a daily schedule, divide large tasks into smaller activities, and avoid unnecessary distractions."
+    },
+    {
+        "question": "How can I prepare for an interview?",
+        "answer": "Research the organization, review your technical concepts, practice common questions, and prepare a short introduction."
+    },
+    {
+        "question": "How can I prepare a resume?",
+        "answer": "Include your education, technical skills, projects, internships, certifications, and relevant achievements in a clear format."
+    },
+    {
+        "question": "What should I include in a student resume?",
+        "answer": "Include contact information, education, skills, projects, internships, certifications, and relevant achievements."
+    },
+    {
+        "question": "How can I find internship opportunities?",
+        "answer": "Check company career pages, internship portals, college placement resources, professional networks, and verified job platforms."
+    },
+    {
+        "question": "How can I improve my communication skills?",
+        "answer": "Practice speaking regularly, read useful material, learn new vocabulary, and participate in discussions."
+    },
+    {
+        "question": "How can I improve my English speaking skills?",
+        "answer": "Practice speaking every day, listen to English conversations, read aloud, and record yourself to identify areas for improvement."
+    },
+    {
+        "question": "How can I reduce exam stress?",
+        "answer": "Plan your preparation early, take regular breaks, sleep adequately, and focus on one task at a time."
+    },
+    {
+        "question": "How can I avoid procrastination?",
+        "answer": "Break tasks into small steps, set short deadlines, remove distractions, and start with the easiest actionable step."
+    },
+    {
+        "question": "How can I stay focused while studying?",
+        "answer": "Study in a quiet place, keep your phone away when possible, use short focused sessions, and take planned breaks."
+    },
+    {
+        "question": "How long should a study session be?",
+        "answer": "A practical study session can be around 25 to 50 minutes followed by a short break, depending on your concentration."
+    },
+    {
+        "question": "How can I remember what I study?",
+        "answer": "Use active recall, practice questions, spaced revision, summaries, and teach concepts in your own words."
+    },
+    {
+        "question": "How can I make effective notes?",
+        "answer": "Write key concepts in your own words, use headings and bullet points, and highlight only important information."
+    },
+    {
+        "question": "How can I prepare for a technical interview?",
+        "answer": "Review core subjects, practice coding or problem-solving questions, understand your projects, and practice explaining technical concepts."
+    },
+    {
+        "question": "How should I explain my project in an interview?",
+        "answer": "Explain the problem, objective, technologies used, your contribution, major challenges, and the final result."
+    },
+    {
+        "question": "What should I say when introducing myself in an interview?",
+        "answer": "Briefly mention your education, key skills, projects or internship experience, and the type of opportunity you are seeking."
+    },
+    {
+        "question": "How can I improve my coding skills?",
+        "answer": "Practice programming problems regularly, build small projects, understand fundamentals, and review your mistakes."
+    },
+    {
+        "question": "Which programming concepts should students learn first?",
+        "answer": "Start with variables, conditions, loops, functions, data structures, object-oriented concepts, and basic problem solving."
+    },
+    {
+        "question": "How can I learn SQL?",
+        "answer": "Practice SELECT queries first, then learn filtering, joins, grouping, subqueries, and database design concepts."
+    },
+    {
+        "question": "How can I learn Python?",
+        "answer": "Learn the basics first and then practice with small programs involving strings, lists, functions, files, and simple projects."
+    },
+    {
+        "question": "How can I choose a final-year project?",
+        "answer": "Choose a problem you understand, select technologies you can learn within the available time, and make sure the project has a clear outcome."
+    },
+    {
+        "question": "What makes a good final-year project?",
+        "answer": "A good project addresses a clear problem, uses suitable technology, has a working implementation, and can be demonstrated and evaluated."
+    },
+    {
+        "question": "How can I explain an NLP project?",
+        "answer": "Explain the problem, data, preprocessing, NLP techniques, model or retrieval method, evaluation, and final application."
+    },
+    {
+        "question": "What is an internship?",
+        "answer": "An internship is a temporary learning and work experience where a student gains practical exposure in a professional environment."
+    },
+    {
+        "question": "How can I write an internship description?",
+        "answer": "Mention your role, project, technologies used, responsibilities, and measurable or practical outcomes."
+    },
+    {
+        "question": "How can I build a portfolio?",
+        "answer": "Create projects that demonstrate your skills, document them clearly, and maintain a professional repository or portfolio website."
+    },
+    {
+        "question": "How can I use GitHub as a student?",
+        "answer": "Upload well-organized projects, write useful README files, use meaningful commits, and keep credentials and secrets out of repositories."
+    },
+    {
+        "question": "How can I prepare for campus placements?",
+        "answer": "Prepare aptitude, technical subjects, coding, communication, resume presentation, and interview questions."
+    },
+    {
+        "question": "How can I prepare for an aptitude test?",
+        "answer": "Practice quantitative aptitude, logical reasoning, verbal ability, and timed mock tests."
+    },
+    {
+        "question": "How can I improve my problem-solving ability?",
+        "answer": "Understand the problem first, break it into smaller parts, consider multiple approaches, and test your solution carefully."
+    },
+    {
+        "question": "How can I balance projects and academics?",
+        "answer": "Create weekly priorities, reserve fixed project time, complete academic deadlines early, and avoid taking on too many tasks at once."
+    },
+    {
+        "question": "How can I ask a teacher for help?",
+        "answer": "Clearly explain what you tried, identify the part you do not understand, and ask a specific question."
+    },
+    {
+        "question": "How can I write a professional email to a professor?",
+        "answer": "Use a clear subject, polite greeting, concise explanation, specific request, and professional closing."
+    },
+    {
+        "question": "How can I participate confidently in presentations?",
+        "answer": "Practice your explanation aloud, understand the topic rather than memorizing every sentence, and maintain a steady pace."
+    },
+    {
+        "question": "How can I improve my presentation skills?",
+        "answer": "Use simple explanations, organize ideas logically, practice beforehand, and maintain eye contact with the audience."
+    },
+    {
+        "question": "How can I find project ideas?",
+        "answer": "Look at real-world problems, academic topics, open-source projects, and current technology applications, then choose a problem you can realistically implement."
+    },
+    {
+        "question": "How can I prepare for a group discussion?",
+        "answer": "Read about the topic, organize your points, listen to others, speak clearly, and contribute respectfully."
+    },
+    {
+        "question": "What should I do if an application does not open?",
+        "answer": "Check your internet connection, restart the application, and update it if an update is available."
+    },
+    {
+        "question": "What should I do if a website is not loading?",
+        "answer": "Check your internet connection, refresh the page, try another browser, and clear cached data if necessary."
+    },
+    {
+        "question": "Why is my internet connection slow?",
+        "answer": "Check the connection on other devices, restart the router if appropriate, and contact your internet provider if the issue continues."
+    },
+    {
+        "question": "What should I do if Wi-Fi disconnects frequently?",
+        "answer": "Restart the router, move closer to it, check for interference, and update network settings or drivers if necessary."
+    },
+    {
+        "question": "How do I clear browser cache?",
+        "answer": "Open your browser settings, find privacy or browsing data options, select cached files, and clear them."
+    },
+    {
+        "question": "Why is my application showing an error?",
+        "answer": "Read the error message, restart the application, check configuration and connectivity, and consult the application's support information."
+    },
+    {
+        "question": "What should I do if an application freezes?",
+        "answer": "Wait briefly, close and reopen the application, and restart the device if the problem continues."
+    },
+    {
+        "question": "How do I update an application?",
+        "answer": "Open the official app store or software update section and install the latest available version."
+    },
+    {
+        "question": "Why should I keep software updated?",
+        "answer": "Updates can provide bug fixes, security improvements, compatibility changes, and new features."
+    },
+    {
+        "question": "What should I do if my computer is running slowly?",
+        "answer": "Close unnecessary applications, restart the computer, check available storage, and install pending system updates."
+    },
+    {
+        "question": "How can I free storage space?",
+        "answer": "Remove unnecessary files and applications, clear temporary data, and move large personal files to appropriate storage."
+    },
+    {
+        "question": "How do I take a screenshot?",
+        "answer": "Use the screenshot shortcut provided by your operating system or device, or use its built-in screenshot tool."
+    },
+    {
+        "question": "How do I copy and paste text?",
+        "answer": "Select the text, use the copy command, place the cursor where needed, and use the paste command."
+    },
+    {
+        "question": "What is cloud storage?",
+        "answer": "Cloud storage allows files to be stored on remote servers and accessed through an internet connection."
+    },
+    {
+        "question": "How do I back up important files?",
+        "answer": "Copy important files to a reliable backup location such as external storage or an appropriate cloud service."
+    },
+    {
+        "question": "What should I do if a file will not open?",
+        "answer": "Check the file type, make sure you have compatible software, and verify that the file is not corrupted."
+    },
+    {
+        "question": "How can I protect my computer from malware?",
+        "answer": "Keep the operating system and security software updated, avoid suspicious downloads, and do not open untrusted links or attachments."
+    },
+    {
+        "question": "What is phishing?",
+        "answer": "Phishing is an attempt to trick people into revealing sensitive information through deceptive messages or websites."
+    },
+    {
+        "question": "How can I identify a phishing email?",
+        "answer": "Check the sender, links, spelling, urgent requests, and unexpected attachments before taking any action."
+    },
+    {
+        "question": "Should I click unknown links?",
+        "answer": "No. Avoid clicking suspicious links and verify the sender or website through a trusted source."
+    },
+    {
+        "question": "How do I create a strong password for an application?",
+        "answer": "Use a long, unique password that is difficult to guess and do not reuse it across important accounts."
+    },
+    {
+        "question": "What is two-factor authentication in technical security?",
+        "answer": "It requires an additional verification method beyond the password, making unauthorized access more difficult."
+    },
+    {
+        "question": "What should I do if my application cannot connect to the server?",
+        "answer": "Check your internet connection, verify the server status, and retry after confirming the application's configuration."
+    },
+    {
+        "question": "What is an API?",
+        "answer": "An API is an interface that allows different software applications or services to communicate with each other."
+    },
+    {
+        "question": "What is a database?",
+        "answer": "A database is an organized collection of data that software can store, retrieve, update, and manage."
+    },
+    {
+        "question": "What is SQL used for?",
+        "answer": "SQL is used to create, query, update, and manage data in relational databases."
+    },
+    {
+        "question": "What is an IP address?",
+        "answer": "An IP address identifies a device or network interface on a network and allows network communication."
+    },
+    {
+        "question": "What is a browser?",
+        "answer": "A web browser is software used to access and interact with websites and web applications."
+    },
+    {
+        "question": "What should I do if a browser keeps crashing?",
+        "answer": "Update the browser, disable problematic extensions, clear cached data, and restart the browser."
+    },
+    {
+        "question": "How do I install software safely?",
+        "answer": "Download software from its official source, verify the installer, review permissions, and keep security protection enabled."
+    },
+    {
+        "question": "What should I do if my keyboard is not working?",
+        "answer": "Reconnect it if applicable, check batteries or cables, restart the device, and test another keyboard if available."
+    },
+    {
+        "question": "What should I do if my mouse is not working?",
+        "answer": "Check the connection or battery, reconnect the device, and test another USB port or mouse if available."
+    },
+    {
+        "question": "Why is my device overheating?",
+        "answer": "Heavy workloads, blocked ventilation, high ambient temperature, or background processes can cause overheating."
+    },
+    {
+        "question": "How can I improve device performance?",
+        "answer": "Keep software updated, remove unnecessary applications, maintain sufficient storage, and close unused processes."
+    },
+    {
+        "question": "What is version control?",
+        "answer": "Version control records changes to files over time so developers can track, compare, and restore versions."
+    },
+    {
+        "question": "What is Git?",
+        "answer": "Git is a distributed version control system used to track changes in source code and collaborate on software projects."
+    },
+    {
+        "question": "What is GitHub?",
+        "answer": "GitHub is a platform for hosting Git repositories and collaborating on software development."
+    },
+    {
+        "question": "Why should I not upload API keys to GitHub?",
+        "answer": "API keys are sensitive credentials. Exposing them can allow unauthorized use of the associated service."
+    },
+    {
+        "question": "What should I do if I accidentally expose an API key?",
+        "answer": "Revoke or rotate the exposed key immediately, replace it with a new secret, and remove the old key from the project history where appropriate."
+    },
+    {
+        "question": "What should I do if a program does not run?",
+        "answer": "Check the error message, verify the required dependencies and configuration, and run the program again after correcting the issue."
+    },
+    {
+        "question": "How can I place an order online?",
+        "answer": "Select the product, add it to your cart, enter the required delivery information, choose a payment method, and confirm the order."
+    },
+    {
+        "question": "How can I check my order status?",
+        "answer": "Open the Orders section and select the order to view its current status."
+    },
+    {
+        "question": "How can I track my delivery?",
+        "answer": "Open your order details and use the available tracking information or tracking link."
+    },
+    {
+        "question": "How can I cancel an order?",
+        "answer": "Open the order details and select Cancel if cancellation is still available."
+    },
+    {
+        "question": "Can I cancel an order after it has shipped?",
+        "answer": "Cancellation may not be available after shipment. Check the return process or contact support."
+    },
+    {
+        "question": "How can I return a product?",
+        "answer": "Open the order details, select the return option if available, and follow the return instructions."
+    },
+    {
+        "question": "How long do I have to return an item?",
+        "answer": "The return period depends on the seller and product policy. Check the return conditions for the specific order."
+    },
+    {
+        "question": "How can I request a refund?",
+        "answer": "Submit a refund or return request from the order details and provide the required information."
+    },
+    {
+        "question": "When will I receive my refund?",
+        "answer": "Refund timing depends on the seller and payment provider. Check the refund status in your order details."
+    },
+    {
+        "question": "What should I do if I received a damaged product?",
+        "answer": "Take photographs of the damage, keep the packaging, and contact the seller or support team promptly."
+    },
+    {
+        "question": "What should I do if I received the wrong product?",
+        "answer": "Report the incorrect item through the order support or return process and provide the order details."
+    },
+    {
+        "question": "What should I do if my order has not arrived?",
+        "answer": "Check the tracking information and estimated delivery date. Contact support if the expected date has passed."
+    },
+    {
+        "question": "Can I change my delivery address?",
+        "answer": "Address changes may be possible before shipment. Open the order details or contact support as soon as possible."
+    },
+    {
+        "question": "How are delivery charges calculated?",
+        "answer": "Delivery charges depend on factors such as location, order size, seller, and selected delivery option."
+    },
+    {
+        "question": "Can I choose express delivery?",
+        "answer": "If express delivery is available for the product and location, it will appear among the delivery options."
+    },
+    {
+        "question": "What payment methods are available for online orders?",
+        "answer": "Available methods may include cards, bank transfers, digital wallets, or other options supported by the seller."
+    },
+    {
+        "question": "Why did my online payment fail?",
+        "answer": "Check your payment details, account balance or limit, network connection, and try again using an available payment method."
+    },
+    {
+        "question": "Was I charged even though my order failed?",
+        "answer": "A failed payment can sometimes create a temporary authorization. Check the transaction status with your payment provider."
+    },
+    {
+        "question": "How can I change my payment method?",
+        "answer": "Before placing the order, select a different available payment method. For existing orders, changes depend on the seller's policy."
+    },
+    {
+        "question": "How do I apply a discount code?",
+        "answer": "Enter the valid discount code in the coupon or promotion field before completing the order."
+    },
+    {
+        "question": "Why is my coupon not working?",
+        "answer": "Check the coupon's validity, minimum order value, eligible products, and usage conditions."
+    },
+    {
+        "question": "Can I exchange a product instead of returning it?",
+        "answer": "Exchange availability depends on the seller's product and return policy."
+    },
+    {
+        "question": "How do I check product availability?",
+        "answer": "Open the product page to view its current stock or availability information."
+    },
+    {
+        "question": "What should I do if an item is out of stock?",
+        "answer": "Check whether the product offers a restock notification or look for an available alternative."
+    },
+    {
+        "question": "How can I compare products?",
+        "answer": "Review product specifications, prices, ratings, and features side by side before making a decision."
+    },
+    {
+        "question": "How can I read product reviews?",
+        "answer": "Open the product page and scroll to the customer reviews or ratings section."
+    },
+    {
+        "question": "Can I edit items in my shopping cart?",
+        "answer": "Yes. Open your cart to change quantities, remove items, or continue shopping."
+    },
+    {
+        "question": "How do I remove an item from my cart?",
+        "answer": "Open the shopping cart and select the remove or delete option next to the item."
+    },
+    {
+        "question": "Can I save products for later?",
+        "answer": "If a wishlist or save-for-later feature is available, select it from the product or cart page."
+    },
+    {
+        "question": "What should I do if a product price changes?",
+        "answer": "Product prices can change based on seller or promotion updates. Check the current product page before purchasing."
+    },
+    {
+        "question": "How can I get an invoice for my order?",
+        "answer": "Open your order details and look for the invoice or receipt option."
+    },
+    {
+        "question": "Can I buy a product as a gift?",
+        "answer": "If gift options are supported, select the gift or special delivery option during checkout."
+    },
+    {
+        "question": "How do I update my delivery instructions?",
+        "answer": "If supported, add or edit delivery instructions during checkout or from the order details."
+    },
+    {
+        "question": "What should I do if tracking information is not updating?",
+        "answer": "Tracking updates can take time after a shipment is scanned. Contact the delivery provider or seller if the delay continues."
+    },
+    {
+        "question": "Can I order products from another location?",
+        "answer": "Availability and delivery depend on the seller's service area and shipping restrictions."
+    },
+    {
+        "question": "How do I report a problem with an order?",
+        "answer": "Open the order details and use the help or support option to report the issue."
+    },
+    {
+        "question": "What should I do if I was charged twice?",
+        "answer": "Check whether both transactions are completed or one is pending, then contact the payment provider or seller if both are confirmed."
+    },
+    {
+        "question": "How can I protect myself when shopping online?",
+        "answer": "Use trusted websites, verify the seller, check secure payment options, and avoid sharing unnecessary personal information."
+    },
+    {
+        "question": "How do I contact shopping support?",
+        "answer": "Open the Help or Customer Support section and provide your order number and a clear description of the issue."
+    },
+    {
+        "question": "How can I check whether a seller is reliable?",
+        "answer": "Review seller information, ratings, reviews, return policies, and use the platform's official payment and support channels."
+    },
+    {
+        "question": "What is a bank account?",
+        "answer": "A bank account is an account maintained with a financial institution for storing, receiving, and managing money."
+    },
+    {
+        "question": "How can I check my account balance?",
+        "answer": "Use your bank's official mobile app, online banking service, ATM, or another authorized method."
+    },
+    {
+        "question": "How can I transfer money?",
+        "answer": "Use an authorized banking channel such as online banking or a mobile banking application and follow the transfer instructions."
+    },
+    {
+        "question": "Why did my bank transfer fail?",
+        "answer": "A transfer can fail because of incorrect details, insufficient funds, limits, connectivity issues, or service restrictions."
+    },
+    {
+        "question": "What should I do if a transfer is pending?",
+        "answer": "Check the transaction status in your banking application and contact the bank if the pending status lasts longer than expected."
+    },
+    {
+        "question": "What should I do if money was deducted but the transfer failed?",
+        "answer": "Check the transaction status and contact your bank if the amount is not automatically reversed within the expected period."
+    },
+    {
+        "question": "How can I report an unauthorized transaction?",
+        "answer": "Contact your bank immediately through an official support channel and follow its fraud-reporting procedure."
+    },
+    {
+        "question": "What should I do if my debit card is lost?",
+        "answer": "Block or freeze the card immediately using the official banking channel and contact your bank for further assistance."
+    },
+    {
+        "question": "What should I do if my credit card is lost?",
+        "answer": "Report the loss immediately through the official card issuer channel and request the card to be blocked."
+    },
+    {
+        "question": "How can I change my banking PIN?",
+        "answer": "Use your bank's official PIN management option or follow the instructions provided by the card issuer."
+    },
+    {
+        "question": "What should I do if I forget my PIN?",
+        "answer": "Contact your bank or use its official PIN recovery or reset process."
+    },
+    {
+        "question": "What is a transaction limit?",
+        "answer": "A transaction limit is the maximum amount that can be transferred, withdrawn, or spent within a specified period."
+    },
+    {
+        "question": "Why was my transaction declined?",
+        "answer": "A transaction may be declined because of insufficient funds, limits, incorrect details, security checks, or service restrictions."
+    },
+    {
+        "question": "How can I check recent transactions?",
+        "answer": "Open the transaction history or account statement section of your official banking service."
+    },
+    {
+        "question": "How can I download a bank statement?",
+        "answer": "Use the statement or transaction history option in your official banking application or online banking portal."
+    },
+    {
+        "question": "What is a refund?",
+        "answer": "A refund is money returned to a customer after an eligible purchase or transaction is reversed."
+    },
+    {
+        "question": "How long does a refund take?",
+        "answer": "Refund processing time varies by the merchant, bank, and payment method."
+    },
+    {
+        "question": "What should I do if I have not received a refund?",
+        "answer": "Check the refund status and contact the merchant or payment provider with the transaction details."
+    },
+    {
+        "question": "What is a digital wallet?",
+        "answer": "A digital wallet is an application or service that can store payment information and support digital transactions."
+    },
+    {
+        "question": "How can I keep digital payments secure?",
+        "answer": "Use official applications, strong authentication, device security, and never share PINs or verification codes."
+    },
+    {
+        "question": "What is UPI?",
+        "answer": "UPI is a real-time payment system that allows users to transfer money between participating bank accounts using supported applications."
+    },
+    {
+        "question": "What should I do if a UPI payment fails?",
+        "answer": "Check your internet connection, account balance, transaction limits, and retry through the official payment application."
+    },
+    {
+        "question": "What if a UPI payment is successful but the recipient has not received it?",
+        "answer": "Check the transaction status and contact the bank or payment provider if the recipient does not receive the amount after the expected processing time."
+    },
+    {
+        "question": "Should I share my UPI PIN?",
+        "answer": "No. Never share your UPI PIN with anyone."
+    },
+    {
+        "question": "What is a payment confirmation?",
+        "answer": "A payment confirmation is a record indicating that a payment request has been processed or accepted."
+    },
+    {
+        "question": "How can I identify a suspicious payment request?",
+        "answer": "Verify the recipient and transaction details before approving a payment and do not authorize unexpected requests."
+    },
+    {
+        "question": "What is an EMI?",
+        "answer": "EMI stands for Equated Monthly Instalment and refers to a fixed periodic payment toward certain loans or financed purchases."
+    },
+    {
+        "question": "What is a credit score?",
+        "answer": "A credit score is a numerical indicator used by financial institutions to assess aspects of a borrower's credit history."
+    },
+    {
+        "question": "How can I improve my credit profile?",
+        "answer": "Pay eligible obligations on time, manage credit responsibly, and avoid unnecessary borrowing."
+    },
+    {
+        "question": "What is interest?",
+        "answer": "Interest is an amount charged or earned in relation to borrowed or deposited money, usually expressed as a rate."
+    },
+    {
+        "question": "What is a bank statement?",
+        "answer": "A bank statement is a record of account transactions over a specified period."
+    },
+    {
+        "question": "How can I update my bank contact information?",
+        "answer": "Use your bank's official profile or branch service to update eligible contact information."
+    },
+    {
+        "question": "What should I do if my card payment was declined?",
+        "answer": "Check the card status, available balance or limit, and merchant details, then contact the card issuer if the problem continues."
+    },
+    {
+        "question": "What should I do if cash was not dispensed but my account was debited?",
+        "answer": "Record the transaction details and contact the bank through its official dispute process."
+    },
+    {
+        "question": "How can I contact my bank about a transaction issue?",
+        "answer": "Use the official customer care number, banking application, website, or branch listed by your bank."
+    },
+    {
+        "question": "How can I avoid financial scams?",
+        "answer": "Do not share OTPs, PINs, passwords, or card security details, and verify requests through official channels."
+    },
+    {
+        "question": "What is an OTP?",
+        "answer": "OTP stands for One-Time Password and is a temporary verification code used for certain transactions or account actions."
+    },
+    {
+        "question": "Should I share an OTP with customer support?",
+        "answer": "No. Legitimate support staff should not require you to disclose a confidential OTP."
+    },
+    {
+        "question": "What should I do if I receive an unexpected OTP?",
+        "answer": "Do not share it or approve an unknown transaction, and check your account activity or contact the relevant service."
+    },
+    {
+        "question": "What should I do if I receive a suspicious banking call?",
+        "answer": "Do not share confidential information or approve transactions. End the call and contact your bank through an official channel."
+    },
+    {
+        "question": "How do I enable notifications?",
+        "answer": "Open the application's Settings or Notification Settings and enable the notification types you want."
+    },
+    {
+        "question": "How do I disable notifications?",
+        "answer": "Open Notification Settings and turn off the notification types you do not want to receive."
+    },
+    {
+        "question": "Why am I not receiving notifications?",
+        "answer": "Check notification permissions, application settings, internet connectivity, and device notification settings."
+    },
+    {
+        "question": "How do I change the application language?",
+        "answer": "Open Settings and select the language option if multiple languages are supported."
+    },
+    {
+        "question": "How do I change the theme?",
+        "answer": "Open Appearance or Settings and select the available theme such as light or dark mode."
+    },
+    {
+        "question": "How do I enable dark mode?",
+        "answer": "Open the Appearance or Settings section and select Dark Mode if it is available."
+    },
+    {
+        "question": "How do I turn off dark mode?",
+        "answer": "Open Appearance settings and select Light Mode or the default theme."
+    },
+    {
+        "question": "How do I search within an application?",
+        "answer": "Use the search field and enter a keyword or natural-language phrase related to what you are looking for."
+    },
+    {
+        "question": "How do I refresh a page?",
+        "answer": "Use the refresh option in the application or browser, or reload the page using the standard refresh command."
+    },
+    {
+        "question": "Why is a page not updating?",
+        "answer": "Refresh the page, check your internet connection, and reopen the application if the problem continues."
+    },
+    {
+        "question": "How do I change the date and time on my device?",
+        "answer": "Open the device's Date and Time settings and use automatic or manual settings as appropriate."
+    },
+    {
+        "question": "How do I connect my phone to Wi-Fi?",
+        "answer": "Open Wi-Fi settings, select the network, and enter the correct password."
+    },
+    {
+        "question": "How do I turn Bluetooth on?",
+        "answer": "Open the device's quick settings or Bluetooth settings and enable Bluetooth."
+    },
+    {
+        "question": "How do I connect Bluetooth headphones?",
+        "answer": "Turn on Bluetooth, put the headphones into pairing mode, select them from the device list, and complete pairing."
+    },
+    {
+        "question": "How can I save battery?",
+        "answer": "Reduce unnecessary screen brightness, close unused features, enable battery-saving options, and keep software updated."
+    },
+    {
+        "question": "Why is my phone battery draining quickly?",
+        "answer": "High screen brightness, background applications, location services, poor signal, and battery age can contribute to fast battery drain."
+    },
+    {
+        "question": "How do I restart my device?",
+        "answer": "Use the device's power menu and select Restart."
+    },
+    {
+        "question": "What should I do if my device is frozen?",
+        "answer": "Wait briefly, then use the device's standard restart procedure if it does not respond."
+    },
+    {
+        "question": "How do I update my device software?",
+        "answer": "Open System or Software Update settings and install an available official update."
+    },
+    {
+        "question": "Why should I update my device?",
+        "answer": "Updates can improve security, stability, compatibility, and performance."
+    },
+    {
+        "question": "How do I connect my device to a printer?",
+        "answer": "Enable the required wireless or wired connection and use the device's printing settings to select a compatible printer."
+    },
+    {
+        "question": "How do I share a file?",
+        "answer": "Select the file, choose the share option, and select an available sharing method."
+    },
+    {
+        "question": "How do I scan a document with my phone?",
+        "answer": "Use a supported scanning feature or document-scanning application, position the document clearly, and save the scan."
+    },
+    {
+        "question": "How do I take a screenshot on a phone?",
+        "answer": "Use the screenshot button or the device-specific hardware shortcut provided by your phone."
+    },
+    {
+        "question": "How do I record my screen?",
+        "answer": "Open the device's screen recording feature from quick settings or system tools if supported."
+    },
+    {
+        "question": "How do I set an alarm?",
+        "answer": "Open the Clock application, choose Alarm, set the time, and save it."
+    },
+    {
+        "question": "How do I set a reminder?",
+        "answer": "Use a calendar, reminder, or task application and enter the time and details of the reminder."
+    },
+    {
+        "question": "How can I organize my daily tasks?",
+        "answer": "Write down your tasks, prioritize important items, set realistic deadlines, and review your list regularly."
+    },
+    {
+        "question": "How can I create a daily routine?",
+        "answer": "Identify essential activities, assign approximate times, include breaks, and keep the routine realistic."
+    },
+    {
+        "question": "How can I manage my time better?",
+        "answer": "Prioritize tasks, estimate the time needed, use a schedule, and avoid unnecessary interruptions."
+    },
+    {
+        "question": "How can I reduce distractions while working?",
+        "answer": "Silence unnecessary notifications, keep distracting applications closed, and work in a suitable environment."
+    },
+    {
+        "question": "How can I improve concentration?",
+        "answer": "Work in focused sessions, take regular breaks, stay hydrated, and remove common distractions."
+    },
+    {
+        "question": "How can I keep my files organized?",
+        "answer": "Create clear folders, use descriptive filenames, remove duplicates, and maintain backups of important files."
+    },
+    {
+        "question": "How can I protect my personal information online?",
+        "answer": "Use strong passwords, enable additional security measures, limit unnecessary sharing, and use trusted websites and applications."
+    },
+    {
+        "question": "How can I recognize a suspicious website?",
+        "answer": "Check the web address, security indicators, spelling, unexpected requests, and whether the site comes from a trusted source."
+    },
+    {
+        "question": "What should I do if I receive a suspicious message?",
+        "answer": "Do not click unknown links or share sensitive information. Verify the sender through an independent trusted channel."
+    },
+    {
+        "question": "How can I avoid online scams?",
+        "answer": "Be cautious of urgent requests, unrealistic offers, unknown links, and requests for passwords, OTPs, or payment information."
+    },
+    {
+        "question": "How do I contact help for a general problem?",
+        "answer": "Open the Help and Support section and provide a clear description of the problem."
+    },
+    {
+        "question": "How can I give feedback about an application?",
+        "answer": "Use the application's feedback or support option and describe what worked well or what could be improved."
+    },
+    {
+        "question": "How do I change an application's permissions?",
+        "answer": "Open your device settings, find the application, open its permissions, and allow or deny the requested permissions."
+    },
+    {
+        "question": "How can I contact customer support?",
+        "answer": "Open the Help and Support section and use the available contact method."
+    },
+    {
+        "question": "How do I report a problem?",
+        "answer": "Open the support section, choose the relevant issue type, and provide a clear description of the problem."
+    },
+    {
+        "question": "How do I submit a complaint?",
+        "answer": "Use the official complaint or support channel and include relevant details such as the issue, date, and reference number."
+    },
+    {
+        "question": "How can I provide feedback?",
+        "answer": "Use the feedback option in the application or website and describe your experience clearly."
+    },
+    {
+        "question": "How can I request technical support?",
+        "answer": "Contact the technical support team through the official support channel and include the error details."
+    },
+    {
+        "question": "What information should I provide to support?",
+        "answer": "Provide a clear description of the issue, relevant account or order reference, error messages, and steps you already tried."
+    },
+    {
+        "question": "How can I check the status of my support request?",
+        "answer": "Use the support portal or reference number provided when the request was submitted."
+    },
+    {
+        "question": "What is a support ticket?",
+        "answer": "A support ticket is a recorded request used by a support team to track and resolve a user's issue."
+    },
+    {
+        "question": "Why do I need a ticket number?",
+        "answer": "The ticket number helps the support team locate and track your request."
+    },
+    {
+        "question": "Can I update an existing support request?",
+        "answer": "If the support system allows updates, open the existing ticket and add the requested information."
+    },
+    {
+        "question": "How do I close a support ticket?",
+        "answer": "If the issue is resolved, use the ticket's close option or inform the support team."
+    },
+    {
+        "question": "What should I do if my support request is taking too long?",
+        "answer": "Check the ticket status and follow up through the official support channel using the ticket number."
+    },
+    {
+        "question": "What should I do if support has not responded?",
+        "answer": "Check your registered contact details and follow up using the original support request or official contact channel."
+    },
+    {
+        "question": "Can I reopen a closed support ticket?",
+        "answer": "If reopening is supported, use the ticket option; otherwise create a new request and reference the previous ticket."
+    },
+    {
+        "question": "How do I escalate a support issue?",
+        "answer": "Ask the support team about the escalation process and provide the existing ticket number."
+    },
+    {
+        "question": "What is a service request?",
+        "answer": "A service request is a request for assistance, information, access, or another supported service."
+    },
+    {
+        "question": "What is the difference between a complaint and a support request?",
+        "answer": "A support request usually asks for help with a problem, while a complaint formally reports dissatisfaction with a service or experience."
+    },
+    {
+        "question": "How should I describe a technical problem to support?",
+        "answer": "Explain what happened, when it happened, the steps that caused it, and any error message you received."
+    },
+    {
+        "question": "Should I send my password to support?",
+        "answer": "No. Never send your password, OTP, PIN, or other confidential credentials to support staff."
+    },
+    {
+        "question": "How can I verify that a support message is genuine?",
+        "answer": "Use the official website or application to find contact information rather than trusting unexpected messages."
+    },
+    {
+        "question": "What should I do if someone claims to be support and asks for money?",
+        "answer": "Do not make the payment. Verify the request through an official support channel."
+    },
+    {
+        "question": "What should I do if a support agent asks for sensitive information?",
+        "answer": "Share only information that is necessary and never disclose passwords, PINs, or confidential verification codes."
+    },
+    {
+        "question": "How can I attach a screenshot to a support request?",
+        "answer": "Use the attachment option in the support form and select the relevant screenshot if attachments are supported."
+    },
+    {
+        "question": "Why is a screenshot useful for support?",
+        "answer": "A screenshot can help the support team understand the error or screen state you experienced."
+    },
+    {
+        "question": "How can I report abusive content?",
+        "answer": "Use the application's reporting feature or contact the official moderation or support team."
+    },
+    {
+        "question": "How can I report a security issue?",
+        "answer": "Use the service's official security or support reporting channel and provide enough information to reproduce or understand the issue."
+    },
+    {
+        "question": "How can I request account recovery support?",
+        "answer": "Use the official account recovery process and provide the information needed to verify ownership."
+    },
+    {
+        "question": "How can I contact support without logging in?",
+        "answer": "Use the public Help or Contact page if the service provides an option for users who cannot sign in."
+    },
+    {
+        "question": "What should I do if the help page does not solve my problem?",
+        "answer": "Submit a support request with a clear description of the issue and the steps you have already tried."
+    },
+    {
+        "question": "How can I find the support policy?",
+        "answer": "Check the official Help, Support, Terms, or Service Policy section."
+    },
+    {
+        "question": "What should I do if I receive no confirmation after submitting a request?",
+        "answer": "Check your email or notification inbox and verify whether the request appears in the support portal."
+    },
+    {
+        "question": "Can I submit the same support request multiple times?",
+        "answer": "Avoid creating duplicate requests unless instructed, because duplicates can slow down resolution."
+    },
+    {
+        "question": "How can I make my support request easier to resolve?",
+        "answer": "Provide accurate details, screenshots when useful, relevant reference numbers, and a concise description of the problem."
+    },
+    {
+        "question": "What should I do if the problem happens only on one device?",
+        "answer": "Tell support which device and software version you are using and mention whether the problem occurs elsewhere."
+    },
+    {
+        "question": "What should I do if the problem happens for multiple users?",
+        "answer": "Report it to support and mention that multiple users are experiencing the same issue."
+    },
+    {
+        "question": "Can support help me with account security?",
+        "answer": "Yes. Use the official support or security channel for account-security concerns."
+    },
+    {
+        "question": "How do I request clarification about a policy?",
+        "answer": "Contact support and mention the specific policy or rule you need explained."
+    },
+    {
+        "question": "How can I thank the support team?",
+        "answer": "You can provide positive feedback through the support or feedback form if one is available."
+    },
+    {
+        "question": "How can I suggest a new feature?",
+        "answer": "Use the official feedback or feature-request channel and explain the problem the proposed feature would solve."
+    },
+    {
+        "question": "Can I ask support for an update on my issue?",
+        "answer": "Yes. Provide your existing ticket or reference number and ask for the current status of your request."
+    },
+    {
+        "question": "How can I plan my day?",
+        "answer": "List your important tasks, assign priorities, estimate the time needed, and leave some time for unexpected activities."
+    },
+    {
+        "question": "How can I make a simple daily schedule?",
+        "answer": "Choose your essential tasks, assign approximate time slots, and include breaks and personal activities."
+    },
+    {
+        "question": "How can I build a morning routine?",
+        "answer": "Choose a few realistic activities such as getting ready, eating breakfast, planning the day, and starting your main task."
+    },
+    {
+        "question": "How can I build a good evening routine?",
+        "answer": "Finish important tasks, prepare for the next day, reduce distractions, and allow enough time for rest."
+    },
+    {
+        "question": "How can I manage household tasks?",
+        "answer": "Create a simple task list, group similar chores, and divide responsibilities among household members when possible."
+    },
+    {
+        "question": "How can I remember important tasks?",
+        "answer": "Use a calendar, reminder application, written checklist, or another method that you regularly check."
+    },
+    {
+        "question": "How can I avoid forgetting appointments?",
+        "answer": "Record appointments immediately and set reminders in advance."
+    },
+    {
+        "question": "How can I organize my personal documents?",
+        "answer": "Create clearly named folders, keep important documents together, and maintain secure backups."
+    },
+    {
+        "question": "How can I keep track of expenses?",
+        "answer": "Record purchases regularly, group them by category, and review your spending periodically."
+    },
+    {
+        "question": "How can I create a simple monthly budget?",
+        "answer": "List expected income, essential expenses, savings goals, and discretionary spending, then compare planned and actual expenses."
+    },
+    {
+        "question": "How can I reduce unnecessary spending?",
+        "answer": "Track purchases, distinguish needs from wants, compare prices, and set a spending limit."
+    },
+    {
+        "question": "How can I save money regularly?",
+        "answer": "Set a realistic savings target and move a planned amount into savings consistently."
+    },
+    {
+        "question": "How can I prepare a grocery list?",
+        "answer": "Check what you already have, plan meals, list needed items by category, and avoid unnecessary purchases."
+    },
+    {
+        "question": "How can I avoid forgetting items when shopping?",
+        "answer": "Prepare your shopping list before leaving and check it before completing the purchase."
+    },
+    {
+        "question": "How can I plan meals for a week?",
+        "answer": "Choose simple meals for each day, check available ingredients, and prepare a grocery list for missing items."
+    },
+    {
+        "question": "How can I stay hydrated during the day?",
+        "answer": "Keep water available, drink regularly, and adjust your intake according to your activities and environment."
+    },
+    {
+        "question": "How can I build a regular exercise habit?",
+        "answer": "Start with manageable activities, schedule them consistently, and gradually increase duration or intensity."
+    },
+    {
+        "question": "How can I stay motivated to exercise?",
+        "answer": "Set small goals, choose activities you enjoy, track progress, and maintain a consistent schedule."
+    },
+    {
+        "question": "How can I improve my sleep routine?",
+        "answer": "Keep a consistent sleep schedule, reduce stimulating activities before bed, and create a comfortable sleep environment."
+    },
+    {
+        "question": "How can I reduce screen time?",
+        "answer": "Set app limits, disable unnecessary notifications, and replace some screen activities with offline activities."
+    },
+    {
+        "question": "How can I spend less time on social media?",
+        "answer": "Set specific usage limits, turn off nonessential notifications, and keep social media out of focused work periods."
+    },
+    {
+        "question": "How can I keep my room organized?",
+        "answer": "Give frequently used items fixed places and spend a few minutes each day returning items to their proper locations."
+    },
+    {
+        "question": "How can I declutter my belongings?",
+        "answer": "Sort items into keep, donate, recycle, or discard groups and remove things you no longer need."
+    },
+    {
+        "question": "How can I prepare for a busy day?",
+        "answer": "Review your schedule the night before, prepare essential items, and identify the most important tasks."
+    },
+    {
+        "question": "How can I manage multiple tasks?",
+        "answer": "Prioritize tasks by importance and urgency, work on one major task at a time, and track deadlines."
+    },
+    {
+        "question": "How can I stop delaying small tasks?",
+        "answer": "Complete short tasks immediately when practical instead of allowing them to accumulate."
+    },
+    {
+        "question": "How can I make a to-do list effective?",
+        "answer": "Keep it short, use clear action words, prioritize items, and review it at the start and end of the day."
+    },
+    {
+        "question": "How can I stay productive at home?",
+        "answer": "Create a dedicated work area, set working hours, reduce distractions, and take regular breaks."
+    },
+    {
+        "question": "How can I focus while working from home?",
+        "answer": "Keep a clear workspace, silence unnecessary notifications, and use a defined start and end time for work."
+    },
+    {
+        "question": "How can I prepare for an important meeting?",
+        "answer": "Review the purpose, prepare questions or notes, check the time and location, and keep required documents ready."
+    },
+    {
+        "question": "How can I prepare for a trip?",
+        "answer": "Check travel details, prepare required documents, make a packing list, and plan transportation and accommodation."
+    },
+    {
+        "question": "How can I make a packing list?",
+        "answer": "List essentials first, then add clothing, personal items, documents, electronics, and destination-specific items."
+    },
+    {
+        "question": "How can I avoid losing important documents while traveling?",
+        "answer": "Keep documents in a secure place and maintain protected digital copies when appropriate."
+    },
+    {
+        "question": "How can I organize photos on my phone?",
+        "answer": "Create albums, remove duplicates, use descriptive organization methods, and back up important photos."
+    },
+    {
+        "question": "How can I back up my personal photos?",
+        "answer": "Use a trusted backup method such as an external storage device or reputable cloud storage."
+    },
+    {
+        "question": "How can I keep my phone organized?",
+        "answer": "Remove unused applications, group related apps, organize files, and review notifications."
+    },
+    {
+        "question": "How can I create a simple personal goal?",
+        "answer": "Define a specific outcome, set a realistic deadline, break it into smaller actions, and track progress."
+    },
+    {
+        "question": "How can I stay consistent with a new habit?",
+        "answer": "Start small, attach the habit to an existing routine, track your progress, and recover quickly after missed days."
+    },
+    {
+        "question": "How can I handle a busy schedule without feeling overwhelmed?",
+        "answer": "Prioritize essential tasks, break large tasks into steps, schedule breaks, and ask for help when appropriate."
+    },
+    {
+        "question": "How can I prepare for tomorrow today?",
+        "answer": "Review tomorrow's schedule, prepare required items, choose your priorities, and set reminders for important tasks."
+    }
+]

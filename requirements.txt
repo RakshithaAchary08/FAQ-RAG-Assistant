@@ -1,0 +1,8 @@
+streamlit>=1.40,<2
+fastembed>=0.7,<1
+groq>=0.11,<2
+python-dotenv>=1,<2
+sqlite-vec>=0.1.6,<1
+argon2-cffi>=23.1,<26
+itsdangerous>=2.2,<3
+extra-streamlit-components>=0.1.71,<1

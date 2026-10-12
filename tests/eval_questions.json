@@ -1,0 +1,4867 @@
+[
+  {
+    "question": "What steps should I follow to create an account?",
+    "expected_faq_id": 1,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to create an account?",
+    "expected_faq_id": 1,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to create an account.",
+    "expected_faq_id": 1,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to log in?",
+    "expected_faq_id": 2,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to log in?",
+    "expected_faq_id": 2,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to log in.",
+    "expected_faq_id": 2,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to reset my password?",
+    "expected_faq_id": 3,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to reset my password?",
+    "expected_faq_id": 3,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to reset my password.",
+    "expected_faq_id": 3,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if I do not receive the password reset email?",
+    "expected_faq_id": 4,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when I do not receive the password reset email?",
+    "expected_faq_id": 4,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when I do not receive the password reset email?",
+    "expected_faq_id": 4,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if I forgot my password?",
+    "expected_faq_id": 5,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when I forgot my password?",
+    "expected_faq_id": 5,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when I forgot my password?",
+    "expected_faq_id": 5,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it possible for me to change my password?",
+    "expected_faq_id": 6,
+    "should_fallback": false
+  },
+  {
+    "question": "Am I able to change my password?",
+    "expected_faq_id": 6,
+    "should_fallback": false
+  },
+  {
+    "question": "Would I be allowed to change my password?",
+    "expected_faq_id": 6,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to change my email address?",
+    "expected_faq_id": 7,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to change my email address?",
+    "expected_faq_id": 7,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to change my email address.",
+    "expected_faq_id": 7,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to update my profile?",
+    "expected_faq_id": 8,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to update my profile?",
+    "expected_faq_id": 8,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to update my profile.",
+    "expected_faq_id": 8,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to change my phone number?",
+    "expected_faq_id": 9,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to change my phone number?",
+    "expected_faq_id": 9,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to change my phone number.",
+    "expected_faq_id": 9,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to upload a profile picture?",
+    "expected_faq_id": 10,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to upload a profile picture?",
+    "expected_faq_id": 10,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to upload a profile picture.",
+    "expected_faq_id": 10,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the reason is my profile picture not uploading?",
+    "expected_faq_id": 11,
+    "should_fallback": false
+  },
+  {
+    "question": "What might cause this: is my profile picture not uploading?",
+    "expected_faq_id": 11,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain why is my profile picture not uploading?",
+    "expected_faq_id": 11,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to verify my email?",
+    "expected_faq_id": 12,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to verify my email?",
+    "expected_faq_id": 12,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to verify my email.",
+    "expected_faq_id": 12,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain this to me: I did not receive my verification email. What should I do?",
+    "expected_faq_id": 13,
+    "should_fallback": false
+  },
+  {
+    "question": "I would like to know more about this: I did not receive my verification email. What should I do.",
+    "expected_faq_id": 13,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you help me understand this question: I did not receive my verification email. What should I do?",
+    "expected_faq_id": 13,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to log out?",
+    "expected_faq_id": 14,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to log out?",
+    "expected_faq_id": 14,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to log out.",
+    "expected_faq_id": 14,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it possible for me to use the same account on another device?",
+    "expected_faq_id": 15,
+    "should_fallback": false
+  },
+  {
+    "question": "Am I able to use the same account on another device?",
+    "expected_faq_id": 15,
+    "should_fallback": false
+  },
+  {
+    "question": "Would I be allowed to use the same account on another device?",
+    "expected_faq_id": 15,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to delete my account?",
+    "expected_faq_id": 16,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to delete my account?",
+    "expected_faq_id": 16,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to delete my account.",
+    "expected_faq_id": 16,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it possible for me to recover a deleted account?",
+    "expected_faq_id": 17,
+    "should_fallback": false
+  },
+  {
+    "question": "Am I able to recover a deleted account?",
+    "expected_faq_id": 17,
+    "should_fallback": false
+  },
+  {
+    "question": "Would I be allowed to recover a deleted account?",
+    "expected_faq_id": 17,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to check my account details?",
+    "expected_faq_id": 18,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to check my account details?",
+    "expected_faq_id": 18,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to check my account details.",
+    "expected_faq_id": 18,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it possible for me to edit my name?",
+    "expected_faq_id": 19,
+    "should_fallback": false
+  },
+  {
+    "question": "Am I able to edit my name?",
+    "expected_faq_id": 19,
+    "should_fallback": false
+  },
+  {
+    "question": "Would I be allowed to edit my name?",
+    "expected_faq_id": 19,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the reason is my account locked?",
+    "expected_faq_id": 20,
+    "should_fallback": false
+  },
+  {
+    "question": "What might cause this: is my account locked?",
+    "expected_faq_id": 20,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain why is my account locked?",
+    "expected_faq_id": 20,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can unlock my account?",
+    "expected_faq_id": 21,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can unlock my account?",
+    "expected_faq_id": 21,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me unlock my account?",
+    "expected_faq_id": 21,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if someone accessed my account?",
+    "expected_faq_id": 22,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when someone accessed my account?",
+    "expected_faq_id": 22,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when someone accessed my account?",
+    "expected_faq_id": 22,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it advisable to share my password with support staff?",
+    "expected_faq_id": 23,
+    "should_fallback": false
+  },
+  {
+    "question": "Would you recommend that I share my password with support staff?",
+    "expected_faq_id": 23,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it a good idea for me to share my password with support staff?",
+    "expected_faq_id": 23,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to enable two-factor authentication?",
+    "expected_faq_id": 24,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to enable two-factor authentication?",
+    "expected_faq_id": 24,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to enable two-factor authentication.",
+    "expected_faq_id": 24,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain two-factor authentication?",
+    "expected_faq_id": 25,
+    "should_fallback": false
+  },
+  {
+    "question": "What does two-factor authentication mean?",
+    "expected_faq_id": 25,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand two-factor authentication.",
+    "expected_faq_id": 25,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the reason am I being asked to verify my identity?",
+    "expected_faq_id": 26,
+    "should_fallback": false
+  },
+  {
+    "question": "What might cause this: am I being asked to verify my identity?",
+    "expected_faq_id": 26,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain why am I being asked to verify my identity?",
+    "expected_faq_id": 26,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to update my security settings?",
+    "expected_faq_id": 27,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to update my security settings?",
+    "expected_faq_id": 27,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to update my security settings.",
+    "expected_faq_id": 27,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it possible for me to change my username?",
+    "expected_faq_id": 28,
+    "should_fallback": false
+  },
+  {
+    "question": "Am I able to change my username?",
+    "expected_faq_id": 28,
+    "should_fallback": false
+  },
+  {
+    "question": "Would I be allowed to change my username?",
+    "expected_faq_id": 28,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the reason is my email already registered?",
+    "expected_faq_id": 29,
+    "should_fallback": false
+  },
+  {
+    "question": "What might cause this: is my email already registered?",
+    "expected_faq_id": 29,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain why is my email already registered?",
+    "expected_faq_id": 29,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it possible for me to have more than one account?",
+    "expected_faq_id": 30,
+    "should_fallback": false
+  },
+  {
+    "question": "Am I able to have more than one account?",
+    "expected_faq_id": 30,
+    "should_fallback": false
+  },
+  {
+    "question": "Would I be allowed to have more than one account?",
+    "expected_faq_id": 30,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to recover my username?",
+    "expected_faq_id": 31,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to recover my username?",
+    "expected_faq_id": 31,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to recover my username.",
+    "expected_faq_id": 31,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the reason did my login session expire?",
+    "expected_faq_id": 32,
+    "should_fallback": false
+  },
+  {
+    "question": "What might cause this: did my login session expire?",
+    "expected_faq_id": 32,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain why did my login session expire?",
+    "expected_faq_id": 32,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to sign out from another device?",
+    "expected_faq_id": 33,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to sign out from another device?",
+    "expected_faq_id": 33,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to sign out from another device.",
+    "expected_faq_id": 33,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you tell me about makes a strong password?",
+    "expected_faq_id": 34,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand makes a strong password.",
+    "expected_faq_id": 34,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain makes a strong password?",
+    "expected_faq_id": 34,
+    "should_fallback": false
+  },
+  {
+    "question": "At what frequency should should I change my password?",
+    "expected_faq_id": 35,
+    "should_fallback": false
+  },
+  {
+    "question": "How frequently should I change my password?",
+    "expected_faq_id": 35,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the recommended frequency for should I change my password?",
+    "expected_faq_id": 35,
+    "should_fallback": false
+  },
+  {
+    "question": "What should I do next after receiving a suspicious login alert?",
+    "expected_faq_id": 36,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps are recommended once receiving a suspicious login alert?",
+    "expected_faq_id": 36,
+    "should_fallback": false
+  },
+  {
+    "question": "How do I handle things after receiving a suspicious login alert?",
+    "expected_faq_id": 36,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it possible for me to change my account preferences?",
+    "expected_faq_id": 37,
+    "should_fallback": false
+  },
+  {
+    "question": "Am I able to change my account preferences?",
+    "expected_faq_id": 37,
+    "should_fallback": false
+  },
+  {
+    "question": "Would I be allowed to change my account preferences?",
+    "expected_faq_id": 37,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to change notification preferences?",
+    "expected_faq_id": 38,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to change notification preferences?",
+    "expected_faq_id": 38,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to change notification preferences.",
+    "expected_faq_id": 38,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the reason can I not edit my profile?",
+    "expected_faq_id": 39,
+    "should_fallback": false
+  },
+  {
+    "question": "What might cause this: can I not edit my profile?",
+    "expected_faq_id": 39,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain why can I not edit my profile?",
+    "expected_faq_id": 39,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to contact account support?",
+    "expected_faq_id": 40,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to contact account support?",
+    "expected_faq_id": 40,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to contact account support.",
+    "expected_faq_id": 40,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can keep my account secure?",
+    "expected_faq_id": 41,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can keep my account secure?",
+    "expected_faq_id": 41,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me keep my account secure?",
+    "expected_faq_id": 41,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can create a study timetable?",
+    "expected_faq_id": 42,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can create a study timetable?",
+    "expected_faq_id": 42,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me create a study timetable?",
+    "expected_faq_id": 42,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can prepare for exams?",
+    "expected_faq_id": 43,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can prepare for exams?",
+    "expected_faq_id": 43,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me prepare for exams?",
+    "expected_faq_id": 43,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can improve my study habits?",
+    "expected_faq_id": 44,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can improve my study habits?",
+    "expected_faq_id": 44,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me improve my study habits?",
+    "expected_faq_id": 44,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can manage my time as a student?",
+    "expected_faq_id": 45,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can manage my time as a student?",
+    "expected_faq_id": 45,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me manage my time as a student?",
+    "expected_faq_id": 45,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can prepare for an interview?",
+    "expected_faq_id": 46,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can prepare for an interview?",
+    "expected_faq_id": 46,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me prepare for an interview?",
+    "expected_faq_id": 46,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can prepare a resume?",
+    "expected_faq_id": 47,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can prepare a resume?",
+    "expected_faq_id": 47,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me prepare a resume?",
+    "expected_faq_id": 47,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you tell me about should I include in a student resume?",
+    "expected_faq_id": 48,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand should I include in a student resume.",
+    "expected_faq_id": 48,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain should I include in a student resume?",
+    "expected_faq_id": 48,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can find internship opportunities?",
+    "expected_faq_id": 49,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can find internship opportunities?",
+    "expected_faq_id": 49,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me find internship opportunities?",
+    "expected_faq_id": 49,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can improve my communication skills?",
+    "expected_faq_id": 50,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can improve my communication skills?",
+    "expected_faq_id": 50,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me improve my communication skills?",
+    "expected_faq_id": 50,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can improve my English speaking skills?",
+    "expected_faq_id": 51,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can improve my English speaking skills?",
+    "expected_faq_id": 51,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me improve my English speaking skills?",
+    "expected_faq_id": 51,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can reduce exam stress?",
+    "expected_faq_id": 52,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can reduce exam stress?",
+    "expected_faq_id": 52,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me reduce exam stress?",
+    "expected_faq_id": 52,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can avoid procrastination?",
+    "expected_faq_id": 53,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can avoid procrastination?",
+    "expected_faq_id": 53,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me avoid procrastination?",
+    "expected_faq_id": 53,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can stay focused while studying?",
+    "expected_faq_id": 54,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can stay focused while studying?",
+    "expected_faq_id": 54,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me stay focused while studying?",
+    "expected_faq_id": 54,
+    "should_fallback": false
+  },
+  {
+    "question": "For how much time should a study session be?",
+    "expected_faq_id": 55,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the expected duration for should a study session be?",
+    "expected_faq_id": 55,
+    "should_fallback": false
+  },
+  {
+    "question": "How much time does it usually take for should a study session be?",
+    "expected_faq_id": 55,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can remember what I study?",
+    "expected_faq_id": 56,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can remember what I study?",
+    "expected_faq_id": 56,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me remember what I study?",
+    "expected_faq_id": 56,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can make effective notes?",
+    "expected_faq_id": 57,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can make effective notes?",
+    "expected_faq_id": 57,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me make effective notes?",
+    "expected_faq_id": 57,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can prepare for a technical interview?",
+    "expected_faq_id": 58,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can prepare for a technical interview?",
+    "expected_faq_id": 58,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me prepare for a technical interview?",
+    "expected_faq_id": 58,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the best way to should I explain my project in an interview?",
+    "expected_faq_id": 59,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to should I explain my project in an interview?",
+    "expected_faq_id": 59,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps can I take to should I explain my project in an interview?",
+    "expected_faq_id": 59,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you tell me about should I say when introducing myself in an interview?",
+    "expected_faq_id": 60,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand should I say when introducing myself in an interview.",
+    "expected_faq_id": 60,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain should I say when introducing myself in an interview?",
+    "expected_faq_id": 60,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can improve my coding skills?",
+    "expected_faq_id": 61,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can improve my coding skills?",
+    "expected_faq_id": 61,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me improve my coding skills?",
+    "expected_faq_id": 61,
+    "should_fallback": false
+  },
+  {
+    "question": "What option should I choose for programming concepts should students learn first?",
+    "expected_faq_id": 62,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you help me identify which programming concepts should students learn first?",
+    "expected_faq_id": 62,
+    "should_fallback": false
+  },
+  {
+    "question": "Which option would be best for programming concepts should students learn first?",
+    "expected_faq_id": 62,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can learn SQL?",
+    "expected_faq_id": 63,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can learn SQL?",
+    "expected_faq_id": 63,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me learn SQL?",
+    "expected_faq_id": 63,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can learn Python?",
+    "expected_faq_id": 64,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can learn Python?",
+    "expected_faq_id": 64,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me learn Python?",
+    "expected_faq_id": 64,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can choose a final-year project?",
+    "expected_faq_id": 65,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can choose a final-year project?",
+    "expected_faq_id": 65,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me choose a final-year project?",
+    "expected_faq_id": 65,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you tell me about makes a good final-year project?",
+    "expected_faq_id": 66,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand makes a good final-year project.",
+    "expected_faq_id": 66,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain makes a good final-year project?",
+    "expected_faq_id": 66,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can explain an NLP project?",
+    "expected_faq_id": 67,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can explain an NLP project?",
+    "expected_faq_id": 67,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me explain an NLP project?",
+    "expected_faq_id": 67,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain an internship?",
+    "expected_faq_id": 68,
+    "should_fallback": false
+  },
+  {
+    "question": "What does an internship mean?",
+    "expected_faq_id": 68,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand an internship.",
+    "expected_faq_id": 68,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can write an internship description?",
+    "expected_faq_id": 69,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can write an internship description?",
+    "expected_faq_id": 69,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me write an internship description?",
+    "expected_faq_id": 69,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can build a portfolio?",
+    "expected_faq_id": 70,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can build a portfolio?",
+    "expected_faq_id": 70,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me build a portfolio?",
+    "expected_faq_id": 70,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can use GitHub as a student?",
+    "expected_faq_id": 71,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can use GitHub as a student?",
+    "expected_faq_id": 71,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me use GitHub as a student?",
+    "expected_faq_id": 71,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can prepare for campus placements?",
+    "expected_faq_id": 72,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can prepare for campus placements?",
+    "expected_faq_id": 72,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me prepare for campus placements?",
+    "expected_faq_id": 72,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can prepare for an aptitude test?",
+    "expected_faq_id": 73,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can prepare for an aptitude test?",
+    "expected_faq_id": 73,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me prepare for an aptitude test?",
+    "expected_faq_id": 73,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can improve my problem-solving ability?",
+    "expected_faq_id": 74,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can improve my problem-solving ability?",
+    "expected_faq_id": 74,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me improve my problem-solving ability?",
+    "expected_faq_id": 74,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can balance projects and academics?",
+    "expected_faq_id": 75,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can balance projects and academics?",
+    "expected_faq_id": 75,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me balance projects and academics?",
+    "expected_faq_id": 75,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can ask a teacher for help?",
+    "expected_faq_id": 76,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can ask a teacher for help?",
+    "expected_faq_id": 76,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me ask a teacher for help?",
+    "expected_faq_id": 76,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can write a professional email to a professor?",
+    "expected_faq_id": 77,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can write a professional email to a professor?",
+    "expected_faq_id": 77,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me write a professional email to a professor?",
+    "expected_faq_id": 77,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can participate confidently in presentations?",
+    "expected_faq_id": 78,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can participate confidently in presentations?",
+    "expected_faq_id": 78,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me participate confidently in presentations?",
+    "expected_faq_id": 78,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can improve my presentation skills?",
+    "expected_faq_id": 79,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can improve my presentation skills?",
+    "expected_faq_id": 79,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me improve my presentation skills?",
+    "expected_faq_id": 79,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can find project ideas?",
+    "expected_faq_id": 80,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can find project ideas?",
+    "expected_faq_id": 80,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me find project ideas?",
+    "expected_faq_id": 80,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can prepare for a group discussion?",
+    "expected_faq_id": 81,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can prepare for a group discussion?",
+    "expected_faq_id": 81,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me prepare for a group discussion?",
+    "expected_faq_id": 81,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if an application does not open?",
+    "expected_faq_id": 82,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when an application does not open?",
+    "expected_faq_id": 82,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when an application does not open?",
+    "expected_faq_id": 82,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if a website is not loading?",
+    "expected_faq_id": 83,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when a website is not loading?",
+    "expected_faq_id": 83,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when a website is not loading?",
+    "expected_faq_id": 83,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the reason is my internet connection slow?",
+    "expected_faq_id": 84,
+    "should_fallback": false
+  },
+  {
+    "question": "What might cause this: is my internet connection slow?",
+    "expected_faq_id": 84,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain why is my internet connection slow?",
+    "expected_faq_id": 84,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if Wi-Fi disconnects frequently?",
+    "expected_faq_id": 85,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when Wi-Fi disconnects frequently?",
+    "expected_faq_id": 85,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when Wi-Fi disconnects frequently?",
+    "expected_faq_id": 85,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to clear browser cache?",
+    "expected_faq_id": 86,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to clear browser cache?",
+    "expected_faq_id": 86,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to clear browser cache.",
+    "expected_faq_id": 86,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the reason is my application showing an error?",
+    "expected_faq_id": 87,
+    "should_fallback": false
+  },
+  {
+    "question": "What might cause this: is my application showing an error?",
+    "expected_faq_id": 87,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain why is my application showing an error?",
+    "expected_faq_id": 87,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if an application freezes?",
+    "expected_faq_id": 88,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when an application freezes?",
+    "expected_faq_id": 88,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when an application freezes?",
+    "expected_faq_id": 88,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to update an application?",
+    "expected_faq_id": 89,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to update an application?",
+    "expected_faq_id": 89,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to update an application.",
+    "expected_faq_id": 89,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the reason should I keep software updated?",
+    "expected_faq_id": 90,
+    "should_fallback": false
+  },
+  {
+    "question": "What might cause this: should I keep software updated?",
+    "expected_faq_id": 90,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain why should I keep software updated?",
+    "expected_faq_id": 90,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if my computer is running slowly?",
+    "expected_faq_id": 91,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when my computer is running slowly?",
+    "expected_faq_id": 91,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when my computer is running slowly?",
+    "expected_faq_id": 91,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can free storage space?",
+    "expected_faq_id": 92,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can free storage space?",
+    "expected_faq_id": 92,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me free storage space?",
+    "expected_faq_id": 92,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to take a screenshot?",
+    "expected_faq_id": 93,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to take a screenshot?",
+    "expected_faq_id": 93,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to take a screenshot.",
+    "expected_faq_id": 93,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to copy and paste text?",
+    "expected_faq_id": 94,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to copy and paste text?",
+    "expected_faq_id": 94,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to copy and paste text.",
+    "expected_faq_id": 94,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain cloud storage?",
+    "expected_faq_id": 95,
+    "should_fallback": false
+  },
+  {
+    "question": "What does cloud storage mean?",
+    "expected_faq_id": 95,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand cloud storage.",
+    "expected_faq_id": 95,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to back up important files?",
+    "expected_faq_id": 96,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to back up important files?",
+    "expected_faq_id": 96,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to back up important files.",
+    "expected_faq_id": 96,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if a file will not open?",
+    "expected_faq_id": 97,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when a file will not open?",
+    "expected_faq_id": 97,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when a file will not open?",
+    "expected_faq_id": 97,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can protect my computer from malware?",
+    "expected_faq_id": 98,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can protect my computer from malware?",
+    "expected_faq_id": 98,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me protect my computer from malware?",
+    "expected_faq_id": 98,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain phishing?",
+    "expected_faq_id": 99,
+    "should_fallback": false
+  },
+  {
+    "question": "What does phishing mean?",
+    "expected_faq_id": 99,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand phishing.",
+    "expected_faq_id": 99,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can identify a phishing email?",
+    "expected_faq_id": 100,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can identify a phishing email?",
+    "expected_faq_id": 100,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me identify a phishing email?",
+    "expected_faq_id": 100,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it advisable to click unknown links?",
+    "expected_faq_id": 101,
+    "should_fallback": false
+  },
+  {
+    "question": "Would you recommend that I click unknown links?",
+    "expected_faq_id": 101,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it a good idea for me to click unknown links?",
+    "expected_faq_id": 101,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to create a strong password for an application?",
+    "expected_faq_id": 102,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to create a strong password for an application?",
+    "expected_faq_id": 102,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to create a strong password for an application.",
+    "expected_faq_id": 102,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain two-factor authentication in technical security?",
+    "expected_faq_id": 103,
+    "should_fallback": false
+  },
+  {
+    "question": "What does two-factor authentication in technical security mean?",
+    "expected_faq_id": 103,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand two-factor authentication in technical security.",
+    "expected_faq_id": 103,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if my application cannot connect to the server?",
+    "expected_faq_id": 104,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when my application cannot connect to the server?",
+    "expected_faq_id": 104,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when my application cannot connect to the server?",
+    "expected_faq_id": 104,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain an API?",
+    "expected_faq_id": 105,
+    "should_fallback": false
+  },
+  {
+    "question": "What does an API mean?",
+    "expected_faq_id": 105,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand an API.",
+    "expected_faq_id": 105,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain a database?",
+    "expected_faq_id": 106,
+    "should_fallback": false
+  },
+  {
+    "question": "What does a database mean?",
+    "expected_faq_id": 106,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand a database.",
+    "expected_faq_id": 106,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain SQL used for?",
+    "expected_faq_id": 107,
+    "should_fallback": false
+  },
+  {
+    "question": "What does SQL used for mean?",
+    "expected_faq_id": 107,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand SQL used for.",
+    "expected_faq_id": 107,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain an IP address?",
+    "expected_faq_id": 108,
+    "should_fallback": false
+  },
+  {
+    "question": "What does an IP address mean?",
+    "expected_faq_id": 108,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand an IP address.",
+    "expected_faq_id": 108,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain a browser?",
+    "expected_faq_id": 109,
+    "should_fallback": false
+  },
+  {
+    "question": "What does a browser mean?",
+    "expected_faq_id": 109,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand a browser.",
+    "expected_faq_id": 109,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if a browser keeps crashing?",
+    "expected_faq_id": 110,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when a browser keeps crashing?",
+    "expected_faq_id": 110,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when a browser keeps crashing?",
+    "expected_faq_id": 110,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to install software safely?",
+    "expected_faq_id": 111,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to install software safely?",
+    "expected_faq_id": 111,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to install software safely.",
+    "expected_faq_id": 111,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if my keyboard is not working?",
+    "expected_faq_id": 112,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when my keyboard is not working?",
+    "expected_faq_id": 112,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when my keyboard is not working?",
+    "expected_faq_id": 112,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if my mouse is not working?",
+    "expected_faq_id": 113,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when my mouse is not working?",
+    "expected_faq_id": 113,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when my mouse is not working?",
+    "expected_faq_id": 113,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the reason is my device overheating?",
+    "expected_faq_id": 114,
+    "should_fallback": false
+  },
+  {
+    "question": "What might cause this: is my device overheating?",
+    "expected_faq_id": 114,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain why is my device overheating?",
+    "expected_faq_id": 114,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can improve device performance?",
+    "expected_faq_id": 115,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can improve device performance?",
+    "expected_faq_id": 115,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me improve device performance?",
+    "expected_faq_id": 115,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain version control?",
+    "expected_faq_id": 116,
+    "should_fallback": false
+  },
+  {
+    "question": "What does version control mean?",
+    "expected_faq_id": 116,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand version control.",
+    "expected_faq_id": 116,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain Git?",
+    "expected_faq_id": 117,
+    "should_fallback": false
+  },
+  {
+    "question": "What does Git mean?",
+    "expected_faq_id": 117,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand Git.",
+    "expected_faq_id": 117,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain GitHub?",
+    "expected_faq_id": 118,
+    "should_fallback": false
+  },
+  {
+    "question": "What does GitHub mean?",
+    "expected_faq_id": 118,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand GitHub.",
+    "expected_faq_id": 118,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the reason should I not upload API keys to GitHub?",
+    "expected_faq_id": 119,
+    "should_fallback": false
+  },
+  {
+    "question": "What might cause this: should I not upload API keys to GitHub?",
+    "expected_faq_id": 119,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain why should I not upload API keys to GitHub?",
+    "expected_faq_id": 119,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if I accidentally expose an API key?",
+    "expected_faq_id": 120,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when I accidentally expose an API key?",
+    "expected_faq_id": 120,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when I accidentally expose an API key?",
+    "expected_faq_id": 120,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if a program does not run?",
+    "expected_faq_id": 121,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when a program does not run?",
+    "expected_faq_id": 121,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when a program does not run?",
+    "expected_faq_id": 121,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can place an order online?",
+    "expected_faq_id": 122,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can place an order online?",
+    "expected_faq_id": 122,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me place an order online?",
+    "expected_faq_id": 122,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can check my order status?",
+    "expected_faq_id": 123,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can check my order status?",
+    "expected_faq_id": 123,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me check my order status?",
+    "expected_faq_id": 123,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can track my delivery?",
+    "expected_faq_id": 124,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can track my delivery?",
+    "expected_faq_id": 124,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me track my delivery?",
+    "expected_faq_id": 124,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can cancel an order?",
+    "expected_faq_id": 125,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can cancel an order?",
+    "expected_faq_id": 125,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me cancel an order?",
+    "expected_faq_id": 125,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it possible for me to cancel an order after it has shipped?",
+    "expected_faq_id": 126,
+    "should_fallback": false
+  },
+  {
+    "question": "Am I able to cancel an order after it has shipped?",
+    "expected_faq_id": 126,
+    "should_fallback": false
+  },
+  {
+    "question": "Would I be allowed to cancel an order after it has shipped?",
+    "expected_faq_id": 126,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can return a product?",
+    "expected_faq_id": 127,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can return a product?",
+    "expected_faq_id": 127,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me return a product?",
+    "expected_faq_id": 127,
+    "should_fallback": false
+  },
+  {
+    "question": "For how much time do I have to return an item?",
+    "expected_faq_id": 128,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the expected duration for do I have to return an item?",
+    "expected_faq_id": 128,
+    "should_fallback": false
+  },
+  {
+    "question": "How much time does it usually take for do I have to return an item?",
+    "expected_faq_id": 128,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can request a refund?",
+    "expected_faq_id": 129,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can request a refund?",
+    "expected_faq_id": 129,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me request a refund?",
+    "expected_faq_id": 129,
+    "should_fallback": false
+  },
+  {
+    "question": "At what time will I receive my refund?",
+    "expected_faq_id": 130,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you tell me when will I receive my refund?",
+    "expected_faq_id": 130,
+    "should_fallback": false
+  },
+  {
+    "question": "When should I expect that will I receive my refund?",
+    "expected_faq_id": 130,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if I received a damaged product?",
+    "expected_faq_id": 131,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when I received a damaged product?",
+    "expected_faq_id": 131,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when I received a damaged product?",
+    "expected_faq_id": 131,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if I received the wrong product?",
+    "expected_faq_id": 132,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when I received the wrong product?",
+    "expected_faq_id": 132,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when I received the wrong product?",
+    "expected_faq_id": 132,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if my order has not arrived?",
+    "expected_faq_id": 133,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when my order has not arrived?",
+    "expected_faq_id": 133,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when my order has not arrived?",
+    "expected_faq_id": 133,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it possible for me to change my delivery address?",
+    "expected_faq_id": 134,
+    "should_fallback": false
+  },
+  {
+    "question": "Am I able to change my delivery address?",
+    "expected_faq_id": 134,
+    "should_fallback": false
+  },
+  {
+    "question": "Would I be allowed to change my delivery address?",
+    "expected_faq_id": 134,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the best way to are delivery charges calculated?",
+    "expected_faq_id": 135,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to are delivery charges calculated?",
+    "expected_faq_id": 135,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps can I take to are delivery charges calculated?",
+    "expected_faq_id": 135,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it possible for me to choose express delivery?",
+    "expected_faq_id": 136,
+    "should_fallback": false
+  },
+  {
+    "question": "Am I able to choose express delivery?",
+    "expected_faq_id": 136,
+    "should_fallback": false
+  },
+  {
+    "question": "Would I be allowed to choose express delivery?",
+    "expected_faq_id": 136,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you tell me about payment methods are available for online orders?",
+    "expected_faq_id": 137,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand payment methods are available for online orders.",
+    "expected_faq_id": 137,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain payment methods are available for online orders?",
+    "expected_faq_id": 137,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the reason did my online payment fail?",
+    "expected_faq_id": 138,
+    "should_fallback": false
+  },
+  {
+    "question": "What might cause this: did my online payment fail?",
+    "expected_faq_id": 138,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain why did my online payment fail?",
+    "expected_faq_id": 138,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain this to me: Was I charged even though my order failed?",
+    "expected_faq_id": 139,
+    "should_fallback": false
+  },
+  {
+    "question": "I would like to know more about this: Was I charged even though my order failed.",
+    "expected_faq_id": 139,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you help me understand this question: Was I charged even though my order failed?",
+    "expected_faq_id": 139,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can change my payment method?",
+    "expected_faq_id": 140,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can change my payment method?",
+    "expected_faq_id": 140,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me change my payment method?",
+    "expected_faq_id": 140,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to apply a discount code?",
+    "expected_faq_id": 141,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to apply a discount code?",
+    "expected_faq_id": 141,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to apply a discount code.",
+    "expected_faq_id": 141,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the reason is my coupon not working?",
+    "expected_faq_id": 142,
+    "should_fallback": false
+  },
+  {
+    "question": "What might cause this: is my coupon not working?",
+    "expected_faq_id": 142,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain why is my coupon not working?",
+    "expected_faq_id": 142,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it possible for me to exchange a product instead of returning it?",
+    "expected_faq_id": 143,
+    "should_fallback": false
+  },
+  {
+    "question": "Am I able to exchange a product instead of returning it?",
+    "expected_faq_id": 143,
+    "should_fallback": false
+  },
+  {
+    "question": "Would I be allowed to exchange a product instead of returning it?",
+    "expected_faq_id": 143,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to check product availability?",
+    "expected_faq_id": 144,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to check product availability?",
+    "expected_faq_id": 144,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to check product availability.",
+    "expected_faq_id": 144,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if an item is out of stock?",
+    "expected_faq_id": 145,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when an item is out of stock?",
+    "expected_faq_id": 145,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when an item is out of stock?",
+    "expected_faq_id": 145,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can compare products?",
+    "expected_faq_id": 146,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can compare products?",
+    "expected_faq_id": 146,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me compare products?",
+    "expected_faq_id": 146,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can read product reviews?",
+    "expected_faq_id": 147,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can read product reviews?",
+    "expected_faq_id": 147,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me read product reviews?",
+    "expected_faq_id": 147,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it possible for me to edit items in my shopping cart?",
+    "expected_faq_id": 148,
+    "should_fallback": false
+  },
+  {
+    "question": "Am I able to edit items in my shopping cart?",
+    "expected_faq_id": 148,
+    "should_fallback": false
+  },
+  {
+    "question": "Would I be allowed to edit items in my shopping cart?",
+    "expected_faq_id": 148,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to remove an item from my cart?",
+    "expected_faq_id": 149,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to remove an item from my cart?",
+    "expected_faq_id": 149,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to remove an item from my cart.",
+    "expected_faq_id": 149,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it possible for me to save products for later?",
+    "expected_faq_id": 150,
+    "should_fallback": false
+  },
+  {
+    "question": "Am I able to save products for later?",
+    "expected_faq_id": 150,
+    "should_fallback": false
+  },
+  {
+    "question": "Would I be allowed to save products for later?",
+    "expected_faq_id": 150,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if a product price changes?",
+    "expected_faq_id": 151,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when a product price changes?",
+    "expected_faq_id": 151,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when a product price changes?",
+    "expected_faq_id": 151,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can get an invoice for my order?",
+    "expected_faq_id": 152,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can get an invoice for my order?",
+    "expected_faq_id": 152,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me get an invoice for my order?",
+    "expected_faq_id": 152,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it possible for me to buy a product as a gift?",
+    "expected_faq_id": 153,
+    "should_fallback": false
+  },
+  {
+    "question": "Am I able to buy a product as a gift?",
+    "expected_faq_id": 153,
+    "should_fallback": false
+  },
+  {
+    "question": "Would I be allowed to buy a product as a gift?",
+    "expected_faq_id": 153,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to update my delivery instructions?",
+    "expected_faq_id": 154,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to update my delivery instructions?",
+    "expected_faq_id": 154,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to update my delivery instructions.",
+    "expected_faq_id": 154,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if tracking information is not updating?",
+    "expected_faq_id": 155,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when tracking information is not updating?",
+    "expected_faq_id": 155,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when tracking information is not updating?",
+    "expected_faq_id": 155,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it possible for me to order products from another location?",
+    "expected_faq_id": 156,
+    "should_fallback": false
+  },
+  {
+    "question": "Am I able to order products from another location?",
+    "expected_faq_id": 156,
+    "should_fallback": false
+  },
+  {
+    "question": "Would I be allowed to order products from another location?",
+    "expected_faq_id": 156,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to report a problem with an order?",
+    "expected_faq_id": 157,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to report a problem with an order?",
+    "expected_faq_id": 157,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to report a problem with an order.",
+    "expected_faq_id": 157,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if I was charged twice?",
+    "expected_faq_id": 158,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when I was charged twice?",
+    "expected_faq_id": 158,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when I was charged twice?",
+    "expected_faq_id": 158,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can protect myself when shopping online?",
+    "expected_faq_id": 159,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can protect myself when shopping online?",
+    "expected_faq_id": 159,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me protect myself when shopping online?",
+    "expected_faq_id": 159,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to contact shopping support?",
+    "expected_faq_id": 160,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to contact shopping support?",
+    "expected_faq_id": 160,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to contact shopping support.",
+    "expected_faq_id": 160,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can check whether a seller is reliable?",
+    "expected_faq_id": 161,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can check whether a seller is reliable?",
+    "expected_faq_id": 161,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me check whether a seller is reliable?",
+    "expected_faq_id": 161,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain a bank account?",
+    "expected_faq_id": 162,
+    "should_fallback": false
+  },
+  {
+    "question": "What does a bank account mean?",
+    "expected_faq_id": 162,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand a bank account.",
+    "expected_faq_id": 162,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can check my account balance?",
+    "expected_faq_id": 163,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can check my account balance?",
+    "expected_faq_id": 163,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me check my account balance?",
+    "expected_faq_id": 163,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can transfer money?",
+    "expected_faq_id": 164,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can transfer money?",
+    "expected_faq_id": 164,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me transfer money?",
+    "expected_faq_id": 164,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the reason did my bank transfer fail?",
+    "expected_faq_id": 165,
+    "should_fallback": false
+  },
+  {
+    "question": "What might cause this: did my bank transfer fail?",
+    "expected_faq_id": 165,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain why did my bank transfer fail?",
+    "expected_faq_id": 165,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if a transfer is pending?",
+    "expected_faq_id": 166,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when a transfer is pending?",
+    "expected_faq_id": 166,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when a transfer is pending?",
+    "expected_faq_id": 166,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if money was deducted but the transfer failed?",
+    "expected_faq_id": 167,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when money was deducted but the transfer failed?",
+    "expected_faq_id": 167,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when money was deducted but the transfer failed?",
+    "expected_faq_id": 167,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can report an unauthorized transaction?",
+    "expected_faq_id": 168,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can report an unauthorized transaction?",
+    "expected_faq_id": 168,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me report an unauthorized transaction?",
+    "expected_faq_id": 168,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if my debit card is lost?",
+    "expected_faq_id": 169,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when my debit card is lost?",
+    "expected_faq_id": 169,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when my debit card is lost?",
+    "expected_faq_id": 169,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if my credit card is lost?",
+    "expected_faq_id": 170,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when my credit card is lost?",
+    "expected_faq_id": 170,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when my credit card is lost?",
+    "expected_faq_id": 170,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can change my banking PIN?",
+    "expected_faq_id": 171,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can change my banking PIN?",
+    "expected_faq_id": 171,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me change my banking PIN?",
+    "expected_faq_id": 171,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if I forget my PIN?",
+    "expected_faq_id": 172,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when I forget my PIN?",
+    "expected_faq_id": 172,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when I forget my PIN?",
+    "expected_faq_id": 172,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain a transaction limit?",
+    "expected_faq_id": 173,
+    "should_fallback": false
+  },
+  {
+    "question": "What does a transaction limit mean?",
+    "expected_faq_id": 173,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand a transaction limit.",
+    "expected_faq_id": 173,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the reason was my transaction declined?",
+    "expected_faq_id": 174,
+    "should_fallback": false
+  },
+  {
+    "question": "What might cause this: was my transaction declined?",
+    "expected_faq_id": 174,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain why was my transaction declined?",
+    "expected_faq_id": 174,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can check recent transactions?",
+    "expected_faq_id": 175,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can check recent transactions?",
+    "expected_faq_id": 175,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me check recent transactions?",
+    "expected_faq_id": 175,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can download a bank statement?",
+    "expected_faq_id": 176,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can download a bank statement?",
+    "expected_faq_id": 176,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me download a bank statement?",
+    "expected_faq_id": 176,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain a refund?",
+    "expected_faq_id": 177,
+    "should_fallback": false
+  },
+  {
+    "question": "What does a refund mean?",
+    "expected_faq_id": 177,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand a refund.",
+    "expected_faq_id": 177,
+    "should_fallback": false
+  },
+  {
+    "question": "For how much time does a refund take?",
+    "expected_faq_id": 178,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the expected duration for does a refund take?",
+    "expected_faq_id": 178,
+    "should_fallback": false
+  },
+  {
+    "question": "How much time does it usually take for does a refund take?",
+    "expected_faq_id": 178,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if I have not received a refund?",
+    "expected_faq_id": 179,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when I have not received a refund?",
+    "expected_faq_id": 179,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when I have not received a refund?",
+    "expected_faq_id": 179,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain a digital wallet?",
+    "expected_faq_id": 180,
+    "should_fallback": false
+  },
+  {
+    "question": "What does a digital wallet mean?",
+    "expected_faq_id": 180,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand a digital wallet.",
+    "expected_faq_id": 180,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can keep digital payments secure?",
+    "expected_faq_id": 181,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can keep digital payments secure?",
+    "expected_faq_id": 181,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me keep digital payments secure?",
+    "expected_faq_id": 181,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain UPI?",
+    "expected_faq_id": 182,
+    "should_fallback": false
+  },
+  {
+    "question": "What does UPI mean?",
+    "expected_faq_id": 182,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand UPI.",
+    "expected_faq_id": 182,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if a UPI payment fails?",
+    "expected_faq_id": 183,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when a UPI payment fails?",
+    "expected_faq_id": 183,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when a UPI payment fails?",
+    "expected_faq_id": 183,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle a situation where a UPI payment is successful but the recipient has not received it?",
+    "expected_faq_id": 184,
+    "should_fallback": false
+  },
+  {
+    "question": "What happens when a UPI payment is successful but the recipient has not received it?",
+    "expected_faq_id": 184,
+    "should_fallback": false
+  },
+  {
+    "question": "What can I do in case a UPI payment is successful but the recipient has not received it?",
+    "expected_faq_id": 184,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it advisable to share my UPI PIN?",
+    "expected_faq_id": 185,
+    "should_fallback": false
+  },
+  {
+    "question": "Would you recommend that I share my UPI PIN?",
+    "expected_faq_id": 185,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it a good idea for me to share my UPI PIN?",
+    "expected_faq_id": 185,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain a payment confirmation?",
+    "expected_faq_id": 186,
+    "should_fallback": false
+  },
+  {
+    "question": "What does a payment confirmation mean?",
+    "expected_faq_id": 186,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand a payment confirmation.",
+    "expected_faq_id": 186,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can identify a suspicious payment request?",
+    "expected_faq_id": 187,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can identify a suspicious payment request?",
+    "expected_faq_id": 187,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me identify a suspicious payment request?",
+    "expected_faq_id": 187,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain an EMI?",
+    "expected_faq_id": 188,
+    "should_fallback": false
+  },
+  {
+    "question": "What does an EMI mean?",
+    "expected_faq_id": 188,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand an EMI.",
+    "expected_faq_id": 188,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain a credit score?",
+    "expected_faq_id": 189,
+    "should_fallback": false
+  },
+  {
+    "question": "What does a credit score mean?",
+    "expected_faq_id": 189,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand a credit score.",
+    "expected_faq_id": 189,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can improve my credit profile?",
+    "expected_faq_id": 190,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can improve my credit profile?",
+    "expected_faq_id": 190,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me improve my credit profile?",
+    "expected_faq_id": 190,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain interest?",
+    "expected_faq_id": 191,
+    "should_fallback": false
+  },
+  {
+    "question": "What does interest mean?",
+    "expected_faq_id": 191,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand interest.",
+    "expected_faq_id": 191,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain a bank statement?",
+    "expected_faq_id": 192,
+    "should_fallback": false
+  },
+  {
+    "question": "What does a bank statement mean?",
+    "expected_faq_id": 192,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand a bank statement.",
+    "expected_faq_id": 192,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can update my bank contact information?",
+    "expected_faq_id": 193,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can update my bank contact information?",
+    "expected_faq_id": 193,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me update my bank contact information?",
+    "expected_faq_id": 193,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if my card payment was declined?",
+    "expected_faq_id": 194,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when my card payment was declined?",
+    "expected_faq_id": 194,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when my card payment was declined?",
+    "expected_faq_id": 194,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if cash was not dispensed but my account was debited?",
+    "expected_faq_id": 195,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when cash was not dispensed but my account was debited?",
+    "expected_faq_id": 195,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when cash was not dispensed but my account was debited?",
+    "expected_faq_id": 195,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can contact my bank about a transaction issue?",
+    "expected_faq_id": 196,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can contact my bank about a transaction issue?",
+    "expected_faq_id": 196,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me contact my bank about a transaction issue?",
+    "expected_faq_id": 196,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can avoid financial scams?",
+    "expected_faq_id": 197,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can avoid financial scams?",
+    "expected_faq_id": 197,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me avoid financial scams?",
+    "expected_faq_id": 197,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain an OTP?",
+    "expected_faq_id": 198,
+    "should_fallback": false
+  },
+  {
+    "question": "What does an OTP mean?",
+    "expected_faq_id": 198,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand an OTP.",
+    "expected_faq_id": 198,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it advisable to share an OTP with customer support?",
+    "expected_faq_id": 199,
+    "should_fallback": false
+  },
+  {
+    "question": "Would you recommend that I share an OTP with customer support?",
+    "expected_faq_id": 199,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it a good idea for me to share an OTP with customer support?",
+    "expected_faq_id": 199,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if I receive an unexpected OTP?",
+    "expected_faq_id": 200,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when I receive an unexpected OTP?",
+    "expected_faq_id": 200,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when I receive an unexpected OTP?",
+    "expected_faq_id": 200,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if I receive a suspicious banking call?",
+    "expected_faq_id": 201,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when I receive a suspicious banking call?",
+    "expected_faq_id": 201,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when I receive a suspicious banking call?",
+    "expected_faq_id": 201,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to enable notifications?",
+    "expected_faq_id": 202,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to enable notifications?",
+    "expected_faq_id": 202,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to enable notifications.",
+    "expected_faq_id": 202,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to disable notifications?",
+    "expected_faq_id": 203,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to disable notifications?",
+    "expected_faq_id": 203,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to disable notifications.",
+    "expected_faq_id": 203,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the reason am I not receiving notifications?",
+    "expected_faq_id": 204,
+    "should_fallback": false
+  },
+  {
+    "question": "What might cause this: am I not receiving notifications?",
+    "expected_faq_id": 204,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain why am I not receiving notifications?",
+    "expected_faq_id": 204,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to change the application language?",
+    "expected_faq_id": 205,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to change the application language?",
+    "expected_faq_id": 205,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to change the application language.",
+    "expected_faq_id": 205,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to change the theme?",
+    "expected_faq_id": 206,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to change the theme?",
+    "expected_faq_id": 206,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to change the theme.",
+    "expected_faq_id": 206,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to enable dark mode?",
+    "expected_faq_id": 207,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to enable dark mode?",
+    "expected_faq_id": 207,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to enable dark mode.",
+    "expected_faq_id": 207,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to turn off dark mode?",
+    "expected_faq_id": 208,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to turn off dark mode?",
+    "expected_faq_id": 208,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to turn off dark mode.",
+    "expected_faq_id": 208,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to search within an application?",
+    "expected_faq_id": 209,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to search within an application?",
+    "expected_faq_id": 209,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to search within an application.",
+    "expected_faq_id": 209,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to refresh a page?",
+    "expected_faq_id": 210,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to refresh a page?",
+    "expected_faq_id": 210,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to refresh a page.",
+    "expected_faq_id": 210,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the reason is a page not updating?",
+    "expected_faq_id": 211,
+    "should_fallback": false
+  },
+  {
+    "question": "What might cause this: is a page not updating?",
+    "expected_faq_id": 211,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain why is a page not updating?",
+    "expected_faq_id": 211,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to change the date and time on my device?",
+    "expected_faq_id": 212,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to change the date and time on my device?",
+    "expected_faq_id": 212,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to change the date and time on my device.",
+    "expected_faq_id": 212,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to connect my phone to Wi-Fi?",
+    "expected_faq_id": 213,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to connect my phone to Wi-Fi?",
+    "expected_faq_id": 213,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to connect my phone to Wi-Fi.",
+    "expected_faq_id": 213,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to turn Bluetooth on?",
+    "expected_faq_id": 214,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to turn Bluetooth on?",
+    "expected_faq_id": 214,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to turn Bluetooth on.",
+    "expected_faq_id": 214,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to connect Bluetooth headphones?",
+    "expected_faq_id": 215,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to connect Bluetooth headphones?",
+    "expected_faq_id": 215,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to connect Bluetooth headphones.",
+    "expected_faq_id": 215,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can save battery?",
+    "expected_faq_id": 216,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can save battery?",
+    "expected_faq_id": 216,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me save battery?",
+    "expected_faq_id": 216,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the reason is my phone battery draining quickly?",
+    "expected_faq_id": 217,
+    "should_fallback": false
+  },
+  {
+    "question": "What might cause this: is my phone battery draining quickly?",
+    "expected_faq_id": 217,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain why is my phone battery draining quickly?",
+    "expected_faq_id": 217,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to restart my device?",
+    "expected_faq_id": 218,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to restart my device?",
+    "expected_faq_id": 218,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to restart my device.",
+    "expected_faq_id": 218,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if my device is frozen?",
+    "expected_faq_id": 219,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when my device is frozen?",
+    "expected_faq_id": 219,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when my device is frozen?",
+    "expected_faq_id": 219,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to update my device software?",
+    "expected_faq_id": 220,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to update my device software?",
+    "expected_faq_id": 220,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to update my device software.",
+    "expected_faq_id": 220,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the reason should I update my device?",
+    "expected_faq_id": 221,
+    "should_fallback": false
+  },
+  {
+    "question": "What might cause this: should I update my device?",
+    "expected_faq_id": 221,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain why should I update my device?",
+    "expected_faq_id": 221,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to connect my device to a printer?",
+    "expected_faq_id": 222,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to connect my device to a printer?",
+    "expected_faq_id": 222,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to connect my device to a printer.",
+    "expected_faq_id": 222,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to share a file?",
+    "expected_faq_id": 223,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to share a file?",
+    "expected_faq_id": 223,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to share a file.",
+    "expected_faq_id": 223,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to scan a document with my phone?",
+    "expected_faq_id": 224,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to scan a document with my phone?",
+    "expected_faq_id": 224,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to scan a document with my phone.",
+    "expected_faq_id": 224,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to take a screenshot on a phone?",
+    "expected_faq_id": 225,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to take a screenshot on a phone?",
+    "expected_faq_id": 225,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to take a screenshot on a phone.",
+    "expected_faq_id": 225,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to record my screen?",
+    "expected_faq_id": 226,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to record my screen?",
+    "expected_faq_id": 226,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to record my screen.",
+    "expected_faq_id": 226,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to set an alarm?",
+    "expected_faq_id": 227,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to set an alarm?",
+    "expected_faq_id": 227,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to set an alarm.",
+    "expected_faq_id": 227,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to set a reminder?",
+    "expected_faq_id": 228,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to set a reminder?",
+    "expected_faq_id": 228,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to set a reminder.",
+    "expected_faq_id": 228,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can organize my daily tasks?",
+    "expected_faq_id": 229,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can organize my daily tasks?",
+    "expected_faq_id": 229,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me organize my daily tasks?",
+    "expected_faq_id": 229,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can create a daily routine?",
+    "expected_faq_id": 230,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can create a daily routine?",
+    "expected_faq_id": 230,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me create a daily routine?",
+    "expected_faq_id": 230,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can manage my time better?",
+    "expected_faq_id": 231,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can manage my time better?",
+    "expected_faq_id": 231,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me manage my time better?",
+    "expected_faq_id": 231,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can reduce distractions while working?",
+    "expected_faq_id": 232,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can reduce distractions while working?",
+    "expected_faq_id": 232,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me reduce distractions while working?",
+    "expected_faq_id": 232,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can improve concentration?",
+    "expected_faq_id": 233,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can improve concentration?",
+    "expected_faq_id": 233,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me improve concentration?",
+    "expected_faq_id": 233,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can keep my files organized?",
+    "expected_faq_id": 234,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can keep my files organized?",
+    "expected_faq_id": 234,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me keep my files organized?",
+    "expected_faq_id": 234,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can protect my personal information online?",
+    "expected_faq_id": 235,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can protect my personal information online?",
+    "expected_faq_id": 235,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me protect my personal information online?",
+    "expected_faq_id": 235,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can recognize a suspicious website?",
+    "expected_faq_id": 236,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can recognize a suspicious website?",
+    "expected_faq_id": 236,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me recognize a suspicious website?",
+    "expected_faq_id": 236,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if I receive a suspicious message?",
+    "expected_faq_id": 237,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when I receive a suspicious message?",
+    "expected_faq_id": 237,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when I receive a suspicious message?",
+    "expected_faq_id": 237,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can avoid online scams?",
+    "expected_faq_id": 238,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can avoid online scams?",
+    "expected_faq_id": 238,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me avoid online scams?",
+    "expected_faq_id": 238,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to contact help for a general problem?",
+    "expected_faq_id": 239,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to contact help for a general problem?",
+    "expected_faq_id": 239,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to contact help for a general problem.",
+    "expected_faq_id": 239,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can give feedback about an application?",
+    "expected_faq_id": 240,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can give feedback about an application?",
+    "expected_faq_id": 240,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me give feedback about an application?",
+    "expected_faq_id": 240,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to change an application's permissions?",
+    "expected_faq_id": 241,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to change an application's permissions?",
+    "expected_faq_id": 241,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to change an application's permissions.",
+    "expected_faq_id": 241,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can contact customer support?",
+    "expected_faq_id": 242,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can contact customer support?",
+    "expected_faq_id": 242,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me contact customer support?",
+    "expected_faq_id": 242,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to report a problem?",
+    "expected_faq_id": 243,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to report a problem?",
+    "expected_faq_id": 243,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to report a problem.",
+    "expected_faq_id": 243,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to submit a complaint?",
+    "expected_faq_id": 244,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to submit a complaint?",
+    "expected_faq_id": 244,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to submit a complaint.",
+    "expected_faq_id": 244,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can provide feedback?",
+    "expected_faq_id": 245,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can provide feedback?",
+    "expected_faq_id": 245,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me provide feedback?",
+    "expected_faq_id": 245,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can request technical support?",
+    "expected_faq_id": 246,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can request technical support?",
+    "expected_faq_id": 246,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me request technical support?",
+    "expected_faq_id": 246,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you tell me about information should I provide to support?",
+    "expected_faq_id": 247,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand information should I provide to support.",
+    "expected_faq_id": 247,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain information should I provide to support?",
+    "expected_faq_id": 247,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can check the status of my support request?",
+    "expected_faq_id": 248,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can check the status of my support request?",
+    "expected_faq_id": 248,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me check the status of my support request?",
+    "expected_faq_id": 248,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain a support ticket?",
+    "expected_faq_id": 249,
+    "should_fallback": false
+  },
+  {
+    "question": "What does a support ticket mean?",
+    "expected_faq_id": 249,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand a support ticket.",
+    "expected_faq_id": 249,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the reason do I need a ticket number?",
+    "expected_faq_id": 250,
+    "should_fallback": false
+  },
+  {
+    "question": "What might cause this: do I need a ticket number?",
+    "expected_faq_id": 250,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain why do I need a ticket number?",
+    "expected_faq_id": 250,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it possible for me to update an existing support request?",
+    "expected_faq_id": 251,
+    "should_fallback": false
+  },
+  {
+    "question": "Am I able to update an existing support request?",
+    "expected_faq_id": 251,
+    "should_fallback": false
+  },
+  {
+    "question": "Would I be allowed to update an existing support request?",
+    "expected_faq_id": 251,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to close a support ticket?",
+    "expected_faq_id": 252,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to close a support ticket?",
+    "expected_faq_id": 252,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to close a support ticket.",
+    "expected_faq_id": 252,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if my support request is taking too long?",
+    "expected_faq_id": 253,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when my support request is taking too long?",
+    "expected_faq_id": 253,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when my support request is taking too long?",
+    "expected_faq_id": 253,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if support has not responded?",
+    "expected_faq_id": 254,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when support has not responded?",
+    "expected_faq_id": 254,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when support has not responded?",
+    "expected_faq_id": 254,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it possible for me to reopen a closed support ticket?",
+    "expected_faq_id": 255,
+    "should_fallback": false
+  },
+  {
+    "question": "Am I able to reopen a closed support ticket?",
+    "expected_faq_id": 255,
+    "should_fallback": false
+  },
+  {
+    "question": "Would I be allowed to reopen a closed support ticket?",
+    "expected_faq_id": 255,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to escalate a support issue?",
+    "expected_faq_id": 256,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to escalate a support issue?",
+    "expected_faq_id": 256,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to escalate a support issue.",
+    "expected_faq_id": 256,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain a service request?",
+    "expected_faq_id": 257,
+    "should_fallback": false
+  },
+  {
+    "question": "What does a service request mean?",
+    "expected_faq_id": 257,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand a service request.",
+    "expected_faq_id": 257,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain the difference between a complaint and a support request?",
+    "expected_faq_id": 258,
+    "should_fallback": false
+  },
+  {
+    "question": "What does the difference between a complaint and a support request mean?",
+    "expected_faq_id": 258,
+    "should_fallback": false
+  },
+  {
+    "question": "I'd like to understand the difference between a complaint and a support request.",
+    "expected_faq_id": 258,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the best way to should I describe a technical problem to support?",
+    "expected_faq_id": 259,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to should I describe a technical problem to support?",
+    "expected_faq_id": 259,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps can I take to should I describe a technical problem to support?",
+    "expected_faq_id": 259,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it advisable to send my password to support?",
+    "expected_faq_id": 260,
+    "should_fallback": false
+  },
+  {
+    "question": "Would you recommend that I send my password to support?",
+    "expected_faq_id": 260,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it a good idea for me to send my password to support?",
+    "expected_faq_id": 260,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can verify that a support message is genuine?",
+    "expected_faq_id": 261,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can verify that a support message is genuine?",
+    "expected_faq_id": 261,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me verify that a support message is genuine?",
+    "expected_faq_id": 261,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if someone claims to be support and asks for money?",
+    "expected_faq_id": 262,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when someone claims to be support and asks for money?",
+    "expected_faq_id": 262,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when someone claims to be support and asks for money?",
+    "expected_faq_id": 262,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if a support agent asks for sensitive information?",
+    "expected_faq_id": 263,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when a support agent asks for sensitive information?",
+    "expected_faq_id": 263,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when a support agent asks for sensitive information?",
+    "expected_faq_id": 263,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can attach a screenshot to a support request?",
+    "expected_faq_id": 264,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can attach a screenshot to a support request?",
+    "expected_faq_id": 264,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me attach a screenshot to a support request?",
+    "expected_faq_id": 264,
+    "should_fallback": false
+  },
+  {
+    "question": "What is the reason is a screenshot useful for support?",
+    "expected_faq_id": 265,
+    "should_fallback": false
+  },
+  {
+    "question": "What might cause this: is a screenshot useful for support?",
+    "expected_faq_id": 265,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you explain why is a screenshot useful for support?",
+    "expected_faq_id": 265,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can report abusive content?",
+    "expected_faq_id": 266,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can report abusive content?",
+    "expected_faq_id": 266,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me report abusive content?",
+    "expected_faq_id": 266,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can report a security issue?",
+    "expected_faq_id": 267,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can report a security issue?",
+    "expected_faq_id": 267,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me report a security issue?",
+    "expected_faq_id": 267,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can request account recovery support?",
+    "expected_faq_id": 268,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can request account recovery support?",
+    "expected_faq_id": 268,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me request account recovery support?",
+    "expected_faq_id": 268,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can contact support without logging in?",
+    "expected_faq_id": 269,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can contact support without logging in?",
+    "expected_faq_id": 269,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me contact support without logging in?",
+    "expected_faq_id": 269,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if the help page does not solve my problem?",
+    "expected_faq_id": 270,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when the help page does not solve my problem?",
+    "expected_faq_id": 270,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when the help page does not solve my problem?",
+    "expected_faq_id": 270,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can find the support policy?",
+    "expected_faq_id": 271,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can find the support policy?",
+    "expected_faq_id": 271,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me find the support policy?",
+    "expected_faq_id": 271,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if I receive no confirmation after submitting a request?",
+    "expected_faq_id": 272,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when I receive no confirmation after submitting a request?",
+    "expected_faq_id": 272,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when I receive no confirmation after submitting a request?",
+    "expected_faq_id": 272,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it possible for me to submit the same support request multiple times?",
+    "expected_faq_id": 273,
+    "should_fallback": false
+  },
+  {
+    "question": "Am I able to submit the same support request multiple times?",
+    "expected_faq_id": 273,
+    "should_fallback": false
+  },
+  {
+    "question": "Would I be allowed to submit the same support request multiple times?",
+    "expected_faq_id": 273,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can make my support request easier to resolve?",
+    "expected_faq_id": 274,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can make my support request easier to resolve?",
+    "expected_faq_id": 274,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me make my support request easier to resolve?",
+    "expected_faq_id": 274,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if the problem happens only on one device?",
+    "expected_faq_id": 275,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when the problem happens only on one device?",
+    "expected_faq_id": 275,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when the problem happens only on one device?",
+    "expected_faq_id": 275,
+    "should_fallback": false
+  },
+  {
+    "question": "How should I handle it if the problem happens for multiple users?",
+    "expected_faq_id": 276,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I take when the problem happens for multiple users?",
+    "expected_faq_id": 276,
+    "should_fallback": false
+  },
+  {
+    "question": "What's the best way to respond when the problem happens for multiple users?",
+    "expected_faq_id": 276,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain this to me: Can support help me with account security?",
+    "expected_faq_id": 277,
+    "should_fallback": false
+  },
+  {
+    "question": "I would like to know more about this: Can support help me with account security.",
+    "expected_faq_id": 277,
+    "should_fallback": false
+  },
+  {
+    "question": "Can you help me understand this question: Can support help me with account security?",
+    "expected_faq_id": 277,
+    "should_fallback": false
+  },
+  {
+    "question": "What steps should I follow to request clarification about a policy?",
+    "expected_faq_id": 278,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you explain how to request clarification about a policy?",
+    "expected_faq_id": 278,
+    "should_fallback": false
+  },
+  {
+    "question": "I need instructions for how to request clarification about a policy.",
+    "expected_faq_id": 278,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can thank the support team?",
+    "expected_faq_id": 279,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can thank the support team?",
+    "expected_faq_id": 279,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me thank the support team?",
+    "expected_faq_id": 279,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can suggest a new feature?",
+    "expected_faq_id": 280,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can suggest a new feature?",
+    "expected_faq_id": 280,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me suggest a new feature?",
+    "expected_faq_id": 280,
+    "should_fallback": false
+  },
+  {
+    "question": "Is it possible for me to ask support for an update on my issue?",
+    "expected_faq_id": 281,
+    "should_fallback": false
+  },
+  {
+    "question": "Am I able to ask support for an update on my issue?",
+    "expected_faq_id": 281,
+    "should_fallback": false
+  },
+  {
+    "question": "Would I be allowed to ask support for an update on my issue?",
+    "expected_faq_id": 281,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can plan my day?",
+    "expected_faq_id": 282,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can plan my day?",
+    "expected_faq_id": 282,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me plan my day?",
+    "expected_faq_id": 282,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can make a simple daily schedule?",
+    "expected_faq_id": 283,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can make a simple daily schedule?",
+    "expected_faq_id": 283,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me make a simple daily schedule?",
+    "expected_faq_id": 283,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can build a morning routine?",
+    "expected_faq_id": 284,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can build a morning routine?",
+    "expected_faq_id": 284,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me build a morning routine?",
+    "expected_faq_id": 284,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can build a good evening routine?",
+    "expected_faq_id": 285,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can build a good evening routine?",
+    "expected_faq_id": 285,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me build a good evening routine?",
+    "expected_faq_id": 285,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can manage household tasks?",
+    "expected_faq_id": 286,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can manage household tasks?",
+    "expected_faq_id": 286,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me manage household tasks?",
+    "expected_faq_id": 286,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can remember important tasks?",
+    "expected_faq_id": 287,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can remember important tasks?",
+    "expected_faq_id": 287,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me remember important tasks?",
+    "expected_faq_id": 287,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can avoid forgetting appointments?",
+    "expected_faq_id": 288,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can avoid forgetting appointments?",
+    "expected_faq_id": 288,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me avoid forgetting appointments?",
+    "expected_faq_id": 288,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can organize my personal documents?",
+    "expected_faq_id": 289,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can organize my personal documents?",
+    "expected_faq_id": 289,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me organize my personal documents?",
+    "expected_faq_id": 289,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can keep track of expenses?",
+    "expected_faq_id": 290,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can keep track of expenses?",
+    "expected_faq_id": 290,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me keep track of expenses?",
+    "expected_faq_id": 290,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can create a simple monthly budget?",
+    "expected_faq_id": 291,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can create a simple monthly budget?",
+    "expected_faq_id": 291,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me create a simple monthly budget?",
+    "expected_faq_id": 291,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can reduce unnecessary spending?",
+    "expected_faq_id": 292,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can reduce unnecessary spending?",
+    "expected_faq_id": 292,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me reduce unnecessary spending?",
+    "expected_faq_id": 292,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can save money regularly?",
+    "expected_faq_id": 293,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can save money regularly?",
+    "expected_faq_id": 293,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me save money regularly?",
+    "expected_faq_id": 293,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can prepare a grocery list?",
+    "expected_faq_id": 294,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can prepare a grocery list?",
+    "expected_faq_id": 294,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me prepare a grocery list?",
+    "expected_faq_id": 294,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can avoid forgetting items when shopping?",
+    "expected_faq_id": 295,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can avoid forgetting items when shopping?",
+    "expected_faq_id": 295,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me avoid forgetting items when shopping?",
+    "expected_faq_id": 295,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can plan meals for a week?",
+    "expected_faq_id": 296,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can plan meals for a week?",
+    "expected_faq_id": 296,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me plan meals for a week?",
+    "expected_faq_id": 296,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can stay hydrated during the day?",
+    "expected_faq_id": 297,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can stay hydrated during the day?",
+    "expected_faq_id": 297,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me stay hydrated during the day?",
+    "expected_faq_id": 297,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can build a regular exercise habit?",
+    "expected_faq_id": 298,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can build a regular exercise habit?",
+    "expected_faq_id": 298,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me build a regular exercise habit?",
+    "expected_faq_id": 298,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can stay motivated to exercise?",
+    "expected_faq_id": 299,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can stay motivated to exercise?",
+    "expected_faq_id": 299,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me stay motivated to exercise?",
+    "expected_faq_id": 299,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can improve my sleep routine?",
+    "expected_faq_id": 300,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can improve my sleep routine?",
+    "expected_faq_id": 300,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me improve my sleep routine?",
+    "expected_faq_id": 300,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can reduce screen time?",
+    "expected_faq_id": 301,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can reduce screen time?",
+    "expected_faq_id": 301,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me reduce screen time?",
+    "expected_faq_id": 301,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can spend less time on social media?",
+    "expected_faq_id": 302,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can spend less time on social media?",
+    "expected_faq_id": 302,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me spend less time on social media?",
+    "expected_faq_id": 302,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can keep my room organized?",
+    "expected_faq_id": 303,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can keep my room organized?",
+    "expected_faq_id": 303,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me keep my room organized?",
+    "expected_faq_id": 303,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can declutter my belongings?",
+    "expected_faq_id": 304,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can declutter my belongings?",
+    "expected_faq_id": 304,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me declutter my belongings?",
+    "expected_faq_id": 304,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can prepare for a busy day?",
+    "expected_faq_id": 305,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can prepare for a busy day?",
+    "expected_faq_id": 305,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me prepare for a busy day?",
+    "expected_faq_id": 305,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can manage multiple tasks?",
+    "expected_faq_id": 306,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can manage multiple tasks?",
+    "expected_faq_id": 306,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me manage multiple tasks?",
+    "expected_faq_id": 306,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can stop delaying small tasks?",
+    "expected_faq_id": 307,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can stop delaying small tasks?",
+    "expected_faq_id": 307,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me stop delaying small tasks?",
+    "expected_faq_id": 307,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can make a to-do list effective?",
+    "expected_faq_id": 308,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can make a to-do list effective?",
+    "expected_faq_id": 308,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me make a to-do list effective?",
+    "expected_faq_id": 308,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can stay productive at home?",
+    "expected_faq_id": 309,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can stay productive at home?",
+    "expected_faq_id": 309,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me stay productive at home?",
+    "expected_faq_id": 309,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can focus while working from home?",
+    "expected_faq_id": 310,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can focus while working from home?",
+    "expected_faq_id": 310,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me focus while working from home?",
+    "expected_faq_id": 310,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can prepare for an important meeting?",
+    "expected_faq_id": 311,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can prepare for an important meeting?",
+    "expected_faq_id": 311,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me prepare for an important meeting?",
+    "expected_faq_id": 311,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can prepare for a trip?",
+    "expected_faq_id": 312,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can prepare for a trip?",
+    "expected_faq_id": 312,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me prepare for a trip?",
+    "expected_faq_id": 312,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can make a packing list?",
+    "expected_faq_id": 313,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can make a packing list?",
+    "expected_faq_id": 313,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me make a packing list?",
+    "expected_faq_id": 313,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can avoid losing important documents while traveling?",
+    "expected_faq_id": 314,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can avoid losing important documents while traveling?",
+    "expected_faq_id": 314,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me avoid losing important documents while traveling?",
+    "expected_faq_id": 314,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can organize photos on my phone?",
+    "expected_faq_id": 315,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can organize photos on my phone?",
+    "expected_faq_id": 315,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me organize photos on my phone?",
+    "expected_faq_id": 315,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can back up my personal photos?",
+    "expected_faq_id": 316,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can back up my personal photos?",
+    "expected_faq_id": 316,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me back up my personal photos?",
+    "expected_faq_id": 316,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can keep my phone organized?",
+    "expected_faq_id": 317,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can keep my phone organized?",
+    "expected_faq_id": 317,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me keep my phone organized?",
+    "expected_faq_id": 317,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can create a simple personal goal?",
+    "expected_faq_id": 318,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can create a simple personal goal?",
+    "expected_faq_id": 318,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me create a simple personal goal?",
+    "expected_faq_id": 318,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can stay consistent with a new habit?",
+    "expected_faq_id": 319,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can stay consistent with a new habit?",
+    "expected_faq_id": 319,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me stay consistent with a new habit?",
+    "expected_faq_id": 319,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can handle a busy schedule without feeling overwhelmed?",
+    "expected_faq_id": 320,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can handle a busy schedule without feeling overwhelmed?",
+    "expected_faq_id": 320,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me handle a busy schedule without feeling overwhelmed?",
+    "expected_faq_id": 320,
+    "should_fallback": false
+  },
+  {
+    "question": "What are some ways I can prepare for tomorrow today?",
+    "expected_faq_id": 321,
+    "should_fallback": false
+  },
+  {
+    "question": "Could you suggest how I can prepare for tomorrow today?",
+    "expected_faq_id": 321,
+    "should_fallback": false
+  },
+  {
+    "question": "What would help me prepare for tomorrow today?",
+    "expected_faq_id": 321,
+    "should_fallback": false
+  },
+  {
+    "question": "How do I calculate the orbital elements of an exoplanet from radial velocity data?",
+    "expected_faq_id": null,
+    "should_fallback": true
+  },
+  {
+    "question": "What is the chemical synthesis route for paracetamol?",
+    "expected_faq_id": null,
+    "should_fallback": true
+  },
+  {
+    "question": "How can I configure a Kubernetes cluster with a service mesh?",
+    "expected_faq_id": null,
+    "should_fallback": true
+  },
+  {
+    "question": "What are the current rules for filing a patent in the European Union?",
+    "expected_faq_id": null,
+    "should_fallback": true
+  },
+  {
+    "question": "How do I identify edible mushrooms in a forest?",
+    "expected_faq_id": null,
+    "should_fallback": true
+  },
+  {
+    "question": "What is the proof of the Poincare conjecture?",
+    "expected_faq_id": null,
+    "should_fallback": true
+  },
+  {
+    "question": "How can I tune a diesel engine for a tractor?",
+    "expected_faq_id": null,
+    "should_fallback": true
+  },
+  {
+    "question": "What are the symptoms and treatment options for appendicitis?",
+    "expected_faq_id": null,
+    "should_fallback": true
+  },
+  {
+    "question": "How do I grow saffron indoors using hydroponics?",
+    "expected_faq_id": null,
+    "should_fallback": true
+  },
+  {
+    "question": "What is the best strategy for playing the Sicilian Defense in chess?",
+    "expected_faq_id": null,
+    "should_fallback": true
+  }
+]

@@ -1,0 +1,16 @@
+.git
+.github
+.venv
+venv
+__pycache__
+*.py[cod]
+.pytest_cache
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+database/*.db
+tests
+requirements-dev.txt
+README.md
+evaluate.py
